@@ -1,0 +1,89 @@
+{
+  "name": "Dolce Aesthetics",
+  "tagline": "Refined Injectable Artistry",
+  "description": "A boutique injectable studio in the heart of Scottsdale, where every Botox, filler, and lip treatment is placed by hand with an artist's eye for natural, camera-ready results.",
+  "logo": "",
+  "hero": {
+    "title": "Artistry in every injection.",
+    "subtitle": "Scottsdale's boutique aesthetic studio, trusted for precise, natural-looking Botox, filler, and injectable treatments.",
+    "image": "/images/dolce-aesthetics/hero.svg",
+    "ctaText": "Reserve Your Appointment"
+  },
+  "colors": {
+    "primary": "#3B1F2B",
+    "accent": "#CBA135"
+  },
+  "contact": {
+    "phone": "+1 (480) 935-9000",
+    "email": "info@dolceaestheticsaz.com",
+    "address": "7600 E Camelback Rd Ste 9, Scottsdale, AZ 85251, United States",
+    "ctaText": "Book Consultation"
+  },
+  "services": [
+    {
+      "title": "Botox Treatments",
+      "description": "Personalized wrinkle-relaxing treatments designed to create natural-looking results.",
+      "image": "/images/dolce-aesthetics/service-botox.svg"
+    },
+    {
+      "title": "Dermal Fillers",
+      "description": "Enhance facial contours and restore volume with customized filler treatments.",
+      "image": "/images/dolce-aesthetics/service-dermal-fillers.svg"
+    },
+    {
+      "title": "Lip Filler",
+      "description": "Subtle lip enhancement treatments tailored to your desired look.",
+      "image": "/images/dolce-aesthetics/service-lip-filler.svg"
+    },
+    {
+      "title": "Injectable Treatments",
+      "description": "Advanced aesthetic injectable services performed by experienced professionals.",
+      "image": "/images/dolce-aesthetics/service-injectables.svg"
+    }
+  ],
+  "benefits": [
+    "Every treatment is performed by an experienced, dedicated nurse injector, not a rotating roster of technicians.",
+    "A natural-first philosophy focused on subtle, camera-ready enhancement.",
+    "Personalized consultations that map your goals before a single injection is placed.",
+    "A private, boutique studio setting in the heart of Scottsdale.",
+    "Clients return to the same trusted injector visit after visit for consistent, reliable results."
+  ],
+  "beforeAfterImages": [
+    "/images/dolce-aesthetics/result-1.svg",
+    "/images/dolce-aesthetics/result-2.svg",
+    "/images/dolce-aesthetics/result-3.svg"
+  ],
+  "testimonials": [
+    {
+      "name": "Nat Victorial",
+      "quote": "I only trust Kim to touch my face with injections. She's a true artist and the most talented at what she does! She's been my nurse injector for 3 years and she has never steered me in the wrong direction! I listen to her and have never been disappointed! Love her always!"
+    },
+    {
+      "name": "Rebeka Calhoun",
+      "quote": "Totally love Kim and her amazing work! She's very courteous and professional. I appreciate her expert medical knowledge and how she utilizes it with her clients. Makes me feel like I've received a thorough consult and treatment session. She's truly an artist! She keeps the ladies looking picture perfect!"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Do I need a consultation before booking a treatment?",
+      "answer": "Yes. Every new client begins with a personalized consultation so your injector can understand your goals and map out the right treatment plan for your features."
+    },
+    {
+      "question": "Is there any downtime after injectable treatments?",
+      "answer": "Most clients return to normal activities the same day. Some mild swelling or bruising at injection sites can occur and typically resolves within a few days."
+    },
+    {
+      "question": "How long do Botox and filler results last?",
+      "answer": "Botox typically lasts 3-4 months, while dermal and lip fillers can last anywhere from 6-18 months depending on the product and treatment area."
+    },
+    {
+      "question": "Will my results look natural?",
+      "answer": "Yes. Every treatment is approached with a natural-first philosophy, using conservative, precise placement to enhance your features rather than change them."
+    }
+  ],
+  "stats": [
+    { "number": "5+", "text": "Years Serving Scottsdale" },
+    { "number": "4.1", "text": "Average Client Rating" },
+    { "number": "1,500+", "text": "Injectable Treatments Performed" }
+  ]
+}

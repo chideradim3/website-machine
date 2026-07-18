@@ -1,0 +1,88 @@
+{
+  "name": "Elite Aesthetics",
+  "tagline": "Precision Injectables. Understated Results.",
+  "description": "An injectables-focused studio for clients who want to look refreshed, never overdone, under the care of a double board-certified physician.",
+  "logo": "",
+  "hero": {
+    "title": "Refinement, not reinvention.",
+    "subtitle": "Physician-led Botox, filler, and skin rejuvenation crafted around your natural features, in a discreet studio setting.",
+    "image": "/images/elite-aesthetics/hero.svg",
+    "ctaText": "Reserve a Consultation"
+  },
+  "colors": {
+    "primary": "#262220",
+    "accent": "#C48B8B"
+  },
+  "contact": {
+    "phone": "(212) 555-0193",
+    "email": "studio@eliteaesthetics.com",
+    "address": "88 Lexington Row, Suite 4B, New York, NY 10016",
+    "ctaText": "Book Consultation"
+  },
+  "services": [
+    {
+      "title": "Botox & Tox Refinement",
+      "description": "Micro-dosed neuromodulator treatments that soften expression lines while preserving natural movement.",
+      "image": "/images/elite-aesthetics/service-tox.svg"
+    },
+    {
+      "title": "Dermal Filler Sculpting",
+      "description": "Structural filler placement to restore volume and balance facial proportions with a subtle, undetectable finish.",
+      "image": "/images/elite-aesthetics/service-filler.svg"
+    },
+    {
+      "title": "Microneedling RF",
+      "description": "Radiofrequency microneedling that refines texture, minimizes pores, and tightens skin at a cellular level.",
+      "image": "/images/elite-aesthetics/service-microneedling.svg"
+    }
+  ],
+  "benefits": [
+    "Every injection plan is performed and supervised directly by a double board-certified physician.",
+    "A natural-first philosophy: subtle enhancement over dramatic change.",
+    "Private, appointment-only studio with no waiting room crowds.",
+    "Advanced imaging used to map facial structure before every treatment.",
+    "Complimentary 6-week follow-up included with every injectable service."
+  ],
+  "beforeAfterImages": [
+    "/images/elite-aesthetics/result-1.svg",
+    "/images/elite-aesthetics/result-2.svg",
+    "/images/elite-aesthetics/result-3.svg"
+  ],
+  "testimonials": [
+    {
+      "name": "Camille Rousseau, Age 45",
+      "quote": "I was terrified of looking 'done.' Dr. Reyes and her team gave me the most natural results I've ever had from filler."
+    },
+    {
+      "name": "Jonathan Pierce, Age 38",
+      "quote": "As someone new to injectables, I appreciated how conservative and honest the consultation was. No pressure to overdo it."
+    },
+    {
+      "name": "Anaya Whitfield, Age 52",
+      "quote": "The microneedling RF sessions completely changed my skin's texture. People keep asking what I've been doing differently."
+    }
+  ],
+  "faq": [
+    {
+      "question": "How is Elite Aesthetics different from a typical medspa?",
+      "answer": "Every treatment is performed by, or directly supervised by, our double board-certified physician rather than rotating technicians, and our focus stays exclusively on injectables and skin rejuvenation."
+    },
+    {
+      "question": "Will filler or Botox look obvious?",
+      "answer": "Our approach favors micro-dosing and structural precision, aiming for results that read as well-rested rather than visibly treated."
+    },
+    {
+      "question": "How long do results typically last?",
+      "answer": "Neuromodulator results generally last 3-4 months, while filler can last 9-18 months depending on placement and product used."
+    },
+    {
+      "question": "Do you offer follow-up appointments?",
+      "answer": "Yes, every injectable service includes a complimentary 6-week follow-up to assess results and make any fine-tuning adjustments."
+    }
+  ],
+  "stats": [
+    { "number": "15+", "text": "Years in Injectable Medicine" },
+    { "number": "6,200+", "text": "Satisfied Clients" },
+    { "number": "18,500+", "text": "Treatments Performed" }
+  ]
+}

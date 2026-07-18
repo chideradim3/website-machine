@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="100%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#E3D1C6"/>
+      <stop offset="100%" stop-color="#C79E85"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <circle cx="300" cy="200" r="180" fill="#CBA135" opacity="0.2"/>
+  <circle cx="980" cy="700" r="190" fill="#3B1F2B" opacity="0.09"/>
+  <text x="80" y="460" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#3B1F2B">Injectable Treatments</text>
+  <text x="80" y="510" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#3B1F2B" opacity="0.6">Treatment Photography Placeholder</text>
+</svg>

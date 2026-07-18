@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E6D8D5"/>
+      <stop offset="100%" stop-color="#CBAFA9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <circle cx="280" cy="240" r="190" fill="#262220" opacity="0.08"/>
+  <circle cx="1000" cy="680" r="200" fill="#C48B8B" opacity="0.2"/>
+  <text x="80" y="460" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#262220">Dermal Filler Sculpting</text>
+  <text x="80" y="510" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#262220" opacity="0.6">Treatment Photography Placeholder</text>
+</svg>

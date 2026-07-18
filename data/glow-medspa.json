@@ -1,0 +1,88 @@
+{
+  "name": "Glow Medspa",
+  "tagline": "Radiant Skin, Redefined",
+  "description": "A sanctuary for advanced skincare where board-certified clinicians pair medical-grade technology with a calm, spa-like touch.",
+  "logo": "",
+  "hero": {
+    "title": "Luminous skin starts with expert care.",
+    "subtitle": "Personalized facial and body treatments designed by dermatology-trained specialists, delivered in a serene, private setting.",
+    "image": "/images/glow-medspa/hero.svg",
+    "ctaText": "Book Your Glow-Up"
+  },
+  "colors": {
+    "primary": "#1F3D33",
+    "accent": "#C6A15B"
+  },
+  "contact": {
+    "phone": "(415) 555-0148",
+    "email": "hello@glowmedspa.com",
+    "address": "212 Bloom Street, San Francisco, CA 94110",
+    "ctaText": "Book Consultation"
+  },
+  "services": [
+    {
+      "title": "HydraFacial Elite",
+      "description": "A multi-step resurfacing facial that cleanses, extracts, and hydrates with antioxidant-rich serums for an instant, dewy glow.",
+      "image": "/images/glow-medspa/service-hydrafacial.svg"
+    },
+    {
+      "title": "Laser Skin Resurfacing",
+      "description": "Fractional laser therapy that softens fine lines, fades sun damage, and rebuilds collagen from within.",
+      "image": "/images/glow-medspa/service-laser.svg"
+    },
+    {
+      "title": "Radiofrequency Contouring",
+      "description": "Non-invasive skin tightening that lifts and contours the face, neck, and jawline with zero downtime.",
+      "image": "/images/glow-medspa/service-rf.svg"
+    }
+  ],
+  "benefits": [
+    "Every treatment plan is designed one-on-one with a licensed aesthetic clinician.",
+    "Medical-grade technology sourced from the same devices used in leading dermatology practices.",
+    "A calm, private studio environment with no rushed appointments or upselling.",
+    "Transparent pricing with no hidden consultation fees.",
+    "Ongoing skin health tracking so results compound visit after visit."
+  ],
+  "beforeAfterImages": [
+    "/images/glow-medspa/result-1.svg",
+    "/images/glow-medspa/result-2.svg",
+    "/images/glow-medspa/result-3.svg"
+  ],
+  "testimonials": [
+    {
+      "name": "Marisa Wallace, Age 34",
+      "quote": "I've tried every facial in the city. Glow Medspa is the first place that actually explained what was happening to my skin instead of just selling me a package."
+    },
+    {
+      "name": "Priya Nair, Age 41",
+      "quote": "The laser resurfacing sessions gave me results I didn't think were possible without surgery. The team made me feel completely at ease."
+    },
+    {
+      "name": "Sofia Trentino, Age 29",
+      "quote": "It feels less like a spa and more like a private dermatology studio that happens to be beautiful. Worth every penny."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Do I need a consultation before booking a treatment?",
+      "answer": "Yes. Every new client begins with a complimentary skin consultation so we can tailor a plan to your specific goals and skin type."
+    },
+    {
+      "question": "Is there any downtime after treatments?",
+      "answer": "Most treatments, including HydraFacial and radiofrequency contouring, have zero downtime. Laser resurfacing may involve 2-3 days of mild redness depending on intensity."
+    },
+    {
+      "question": "How many sessions will I need to see results?",
+      "answer": "Many clients notice a visible glow after a single HydraFacial. For resurfacing and contouring, we typically recommend a series of 3-6 sessions for lasting results."
+    },
+    {
+      "question": "Are your treatments safe for sensitive skin?",
+      "answer": "Absolutely. Every protocol is customized during your consultation, and our clinicians adjust intensity and products for sensitive or reactive skin."
+    }
+  ],
+  "stats": [
+    { "number": "12+", "text": "Years in Aesthetic Medicine" },
+    { "number": "8,400+", "text": "Satisfied Clients" },
+    { "number": "21,000+", "text": "Treatments Performed" }
+  ]
+}

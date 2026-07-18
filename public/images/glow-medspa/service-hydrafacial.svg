@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EFE7D6"/>
+      <stop offset="100%" stop-color="#D9CBA8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <circle cx="900" cy="220" r="220" fill="#1F3D33" opacity="0.08"/>
+  <circle cx="220" cy="720" r="160" fill="#C6A15B" opacity="0.18"/>
+  <text x="80" y="460" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#1F3D33">HydraFacial Elite</text>
+  <text x="80" y="510" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#1F3D33" opacity="0.6">Treatment Photography Placeholder</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E3DEC9"/>
+      <stop offset="100%" stop-color="#C9BE9C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <circle cx="300" cy="250" r="200" fill="#1F3D33" opacity="0.08"/>
+  <circle cx="1000" cy="700" r="180" fill="#C6A15B" opacity="0.2"/>
+  <text x="80" y="460" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#1F3D33">Laser Skin Resurfacing</text>
+  <text x="80" y="510" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#1F3D33" opacity="0.6">Treatment Photography Placeholder</text>
+</svg>
