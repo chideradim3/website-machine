@@ -2,11 +2,18 @@ export interface Service {
   title: string;
   description: string;
   image: string;
+  offer?: string;
 }
 
 export interface Testimonial {
   name: string;
   quote: string;
+}
+
+export interface Review {
+  name: string;
+  text: string;
+  rating?: number;
 }
 
 export interface FAQItem {
@@ -44,6 +51,7 @@ export interface SiteData {
   benefits: string[];
   beforeAfterImages: string[];
   testimonials: Testimonial[];
+  reviews: Review[];
   faq: FAQItem[];
   stats: Stat[];
 }

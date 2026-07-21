@@ -23,7 +23,8 @@
     {
       "title": "HydraFacial Elite",
       "description": "A multi-step resurfacing facial that cleanses, extracts, and hydrates with antioxidant-rich serums for an instant, dewy glow.",
-      "image": "/images/glow-medspa/service-hydrafacial.svg"
+      "image": "/images/glow-medspa/service-hydrafacial.svg",
+      "offer": "$149 First Visit"
     },
     {
       "title": "Laser Skin Resurfacing",
@@ -60,6 +61,28 @@
     {
       "name": "Sofia Trentino, Age 29",
       "quote": "It feels less like a spa and more like a private dermatology studio that happens to be beautiful. Worth every penny."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Danielle R.",
+      "text": "The HydraFacial here is unmatched. My skin looked visibly brighter walking out, and the studio itself is so calm and clean. Worth the drive.",
+      "rating": 5
+    },
+    {
+      "name": "Courtney M.",
+      "text": "I did a series of laser resurfacing sessions for sun damage and the results genuinely surprised me. The esthetician explained every step beforehand, no surprises.",
+      "rating": 5
+    },
+    {
+      "name": "Elena P.",
+      "text": "Booking was easy and the RF contouring treatment had zero downtime, exactly as promised. Only reason it's not 5 stars is parking can be tricky.",
+      "rating": 4
+    },
+    {
+      "name": "Whitney S.",
+      "text": "Glow Medspa is my go-to now. Professional, unrushed appointments, and they actually track your skin progress visit to visit.",
+      "rating": 5
     }
   ],
   "faq": [

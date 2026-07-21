@@ -2,9 +2,9 @@ import type { SiteData } from "@/lib/types";
 
 export default function Services({ data }: { data: SiteData }) {
   return (
-    <section id="treatments" className="bg-white py-24 lg:py-32">
+    <section id="treatments" className="bg-white py-28 lg:py-36">
       <div className="mx-auto max-w-content px-6 lg:px-12">
-        <div className="mb-16 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+        <div className="mb-16 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between lg:mb-20">
           <div>
             <p className="mb-4 flex items-center gap-3 text-xs uppercase tracking-[0.3em] text-[#6B655D]">
               <span className="h-px w-8 bg-[var(--color-accent)]" />
@@ -20,46 +20,53 @@ export default function Services({ data }: { data: SiteData }) {
           </p>
         </div>
 
-        <div className="divide-y divide-[#E4DDD0] border-t border-[#E4DDD0]">
-          {data.services.map((service, i) => {
-            const reversed = i % 2 === 1;
-            return (
-              <div
-                key={i}
-                className={`flex flex-col items-center gap-10 py-12 lg:gap-16 lg:py-16 ${
-                  reversed ? "lg:flex-row-reverse" : "lg:flex-row"
-                }`}
-              >
-                <div className="w-full lg:w-1/2">
-                  <div className="group relative aspect-[4/3] overflow-hidden rounded-[2px]">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
-                      src={service.image}
-                      alt={service.title}
-                      className="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
-                    />
-                  </div>
-                </div>
-                <div className="w-full lg:w-1/2">
-                  <span className="font-serif text-sm text-[var(--color-accent)]">
-                    {String(i + 1).padStart(2, "0")}
+        <div className="grid grid-cols-1 gap-x-8 gap-y-14 sm:grid-cols-2 lg:grid-cols-3">
+          {data.services.map((service, i) => (
+            <div
+              key={i}
+              className="group flex flex-col overflow-hidden rounded-2xl border border-[#E4DDD0] bg-[#FEFDFB] transition-shadow duration-300 hover:shadow-xl hover:shadow-[#21201C]/5"
+            >
+              <div className="relative aspect-[4/3] overflow-hidden">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={service.image}
+                  alt={service.title}
+                  className="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-105"
+                />
+                {service.offer && (
+                  <span className="absolute right-4 top-4 rounded-full bg-[var(--color-accent-soft)] px-3 py-1 text-[11px] uppercase tracking-[0.1em] text-[var(--color-primary)] shadow-sm">
+                    {service.offer}
                   </span>
-                  <h3 className="mt-3 font-serif text-3xl text-[#21201C]">
+                )}
+              </div>
+
+              <div className="flex flex-1 flex-col gap-4 p-7">
+                <div>
+                  <h3 className="font-serif text-2xl text-[#21201C]">
                     {service.title}
                   </h3>
-                  <p className="mt-4 max-w-md text-[15px] leading-relaxed text-[#6B655D]">
+                  <p className="mt-2 text-[14px] leading-relaxed text-[#6B655D]">
                     {service.description}
                   </p>
+                </div>
+
+                <div className="mt-auto flex gap-3 pt-2">
+                  <a
+                    href="#faq"
+                    className="flex-1 rounded-full border border-[var(--color-primary)] px-4 py-2.5 text-center text-[11px] uppercase tracking-[0.1em] text-[var(--color-primary)] transition-colors duration-300 hover:bg-[var(--color-primary-soft)]"
+                  >
+                    Learn More
+                  </a>
                   <a
                     href="#contact"
-                    className="mt-6 inline-flex items-center gap-2 text-[13px] uppercase tracking-[0.14em] text-[#21201C] underline decoration-[#21201C]/20 underline-offset-8 transition-colors hover:decoration-[#21201C]"
+                    className="flex-1 rounded-full bg-[var(--color-primary)] px-4 py-2.5 text-center text-[11px] uppercase tracking-[0.1em] text-white transition-opacity duration-300 hover:opacity-90"
                   >
-                    Enquire
+                    Book Now
                   </a>
                 </div>
               </div>
-            );
-          })}
+            </div>
+          ))}
         </div>
       </div>
     </section>

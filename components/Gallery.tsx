@@ -16,7 +16,7 @@ export default function Gallery({ data }: { data: SiteData }) {
           {data.beforeAfterImages.map((image, i) => (
             <div
               key={i}
-              className="group relative aspect-[3/4] overflow-hidden rounded-[2px] bg-[#E4DDD0]"
+              className="group relative aspect-[3/2] overflow-hidden rounded-[2px] bg-[#E4DDD0]"
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img

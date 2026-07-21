@@ -23,7 +23,8 @@
     {
       "title": "Botox & Tox Refinement",
       "description": "Micro-dosed neuromodulator treatments that soften expression lines while preserving natural movement.",
-      "image": "/images/elite-aesthetics/service-tox.svg"
+      "image": "/images/elite-aesthetics/service-tox.svg",
+      "offer": "New Client Special"
     },
     {
       "title": "Dermal Filler Sculpting",
@@ -60,6 +61,28 @@
     {
       "name": "Anaya Whitfield, Age 52",
       "quote": "The microneedling RF sessions completely changed my skin's texture. People keep asking what I've been doing differently."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Margaret L.",
+      "text": "Dr. Reyes is meticulous. I've had filler elsewhere that looked overdone, but here the results are so subtle people just think I look well-rested.",
+      "rating": 5
+    },
+    {
+      "name": "Theo B.",
+      "text": "As a first-timer with Botox I appreciated how conservative the approach was. No pressure, just an honest recommendation.",
+      "rating": 5
+    },
+    {
+      "name": "Simone K.",
+      "text": "The microneedling RF sessions were a bit more uncomfortable than I expected, but the texture improvement to my skin was worth it.",
+      "rating": 4
+    },
+    {
+      "name": "Priyanka D.",
+      "text": "Discreet, private, and the follow-up appointment included in the price is a nice touch most studios skip.",
+      "rating": 5
     }
   ],
   "faq": [

@@ -23,22 +23,33 @@
     {
       "title": "Botox Treatments",
       "description": "Personalized wrinkle-relaxing treatments designed to create natural-looking results.",
-      "image": "/images/dolce-aesthetics/service-botox.svg"
+      "image": "/images/dolce-aesthetics/botox.webp",
+      "offer": "New Client Special"
     },
     {
-      "title": "Dermal Fillers",
-      "description": "Enhance facial contours and restore volume with customized filler treatments.",
-      "image": "/images/dolce-aesthetics/service-dermal-fillers.svg"
+      "title": "CoolSculpting Elite",
+      "description": "Non-invasive fat-reduction technology that contours the body without surgery or downtime.",
+      "image": "/images/dolce-aesthetics/coolsculpting-elite.webp"
     },
     {
-      "title": "Lip Filler",
-      "description": "Subtle lip enhancement treatments tailored to your desired look.",
-      "image": "/images/dolce-aesthetics/service-lip-filler.svg"
+      "title": "HydraFacials",
+      "description": "A hydrating, multi-step facial that cleanses, exfoliates, and infuses the skin with nourishing serums for an instant glow.",
+      "image": "/images/dolce-aesthetics/hydrafacial.webp"
     },
     {
-      "title": "Injectable Treatments",
-      "description": "Advanced aesthetic injectable services performed by experienced professionals.",
-      "image": "/images/dolce-aesthetics/service-injectables.svg"
+      "title": "Juvéderm",
+      "description": "Smooth, hyaluronic acid-based filler that restores volume and softens lines for natural-looking results.",
+      "image": "/images/dolce-aesthetics/juvederm.webp"
+    },
+    {
+      "title": "Laser Hair Removal",
+      "description": "Long-lasting hair reduction using advanced laser technology, tailored to every skin type.",
+      "image": "/images/dolce-aesthetics/laser-hair.webp"
+    },
+    {
+      "title": "Microneedling & RF Microneedling",
+      "description": "Collagen-stimulating microneedling, with an optional radiofrequency boost, to refine texture and tighten skin.",
+      "image": "/images/dolce-aesthetics/microneedling.webp"
     }
   ],
   "benefits": [
@@ -49,9 +60,9 @@
     "Clients return to the same trusted injector visit after visit for consistent, reliable results."
   ],
   "beforeAfterImages": [
-    "/images/dolce-aesthetics/result-1.svg",
-    "/images/dolce-aesthetics/result-2.svg",
-    "/images/dolce-aesthetics/result-3.svg"
+    "/images/dolce-aesthetics/before3.jpg",
+    "/images/dolce-aesthetics/before2.jpg",
+    "/images/dolce-aesthetics/before4.jpg"
   ],
   "testimonials": [
     {
@@ -61,6 +72,18 @@
     {
       "name": "Rebeka Calhoun",
       "quote": "Totally love Kim and her amazing work! She's very courteous and professional. I appreciate her expert medical knowledge and how she utilizes it with her clients. Makes me feel like I've received a thorough consult and treatment session. She's truly an artist! She keeps the ladies looking picture perfect!"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Nat Victorial",
+      "text": "I only trust Kim to touch my face with injections. She's a true artist and the most talented at what she does! She's been my nurse injector for 3 years and she has never steered me in the wrong direction! I listen to her and have never been disappointed! Love her always!",
+      "rating": 5
+    },
+    {
+      "name": "Rebeka Calhoun",
+      "text": "Totally love Kim and her amazing work! She's very courteous and professional. I appreciate her expert medical knowledge and how she utilizes it with her clients. Makes me feel like I've received a thorough consult and treatment session. She's truly an artist! She keeps the ladies looking picture perfect!",
+      "rating": 5
     }
   ],
   "faq": [
