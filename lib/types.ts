@@ -27,6 +27,7 @@ export interface Stat {
 }
 
 export interface SiteData {
+  type?: "medspa";
   name: string;
   tagline: string;
   description: string;
@@ -55,3 +56,65 @@ export interface SiteData {
   faq: FAQItem[];
   stats: Stat[];
 }
+
+export interface HairSalonFonts {
+  heading: string;
+  body: string;
+}
+
+export interface ServiceCategoryItem {
+  name: string;
+  price: string;
+}
+
+export interface ServiceCategory {
+  category: string;
+  items: ServiceCategoryItem[];
+}
+
+export interface Stylist {
+  name: string;
+  photo: string;
+  bio: string;
+  bookingUrl?: string;
+}
+
+export interface SalonHours {
+  day: string;
+  time: string;
+}
+
+export interface HairSalonContact {
+  phone: string;
+  email: string;
+  address: string;
+  hours: SalonHours[];
+}
+
+export interface HairSalonData {
+  type: "hairsalon";
+  name: string;
+  tagline: string;
+  description: string;
+  logo: string;
+  bookingUrl: string;
+  fonts: HairSalonFonts;
+  hero: {
+    title: string;
+    subtitle: string;
+    heroImage: string;
+    heroVideo: string;
+    ctaText: string;
+  };
+  colors: {
+    primary: string;
+    accent: string;
+  };
+  gallery: string[];
+  serviceCategories: ServiceCategory[];
+  stylists: Stylist[];
+  reviews: Review[];
+  contact: HairSalonContact;
+}
+
+export type AnySiteData = SiteData | HairSalonData;

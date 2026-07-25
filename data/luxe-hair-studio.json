@@ -1,0 +1,97 @@
+{
+  "type": "hairsalon",
+  "name": "Luxe Hair Studio",
+  "tagline": "Modern Color. Effortless Cuts.",
+  "description": "A boutique hair studio specializing in dimensional color, precision cutting, and personalized styling in the heart of downtown.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/luxe-hair-studio",
+  "fonts": {
+    "heading": "Cormorant Garamond",
+    "body": "Manrope"
+  },
+  "hero": {
+    "title": "Hair that turns heads, styled by artists who listen.",
+    "subtitle": "Custom color, precision cuts, and styling tailored to you — book your first visit today.",
+    "heroVideo": "/images/luxe-hair-studio/hair video.mp4",
+    "heroImage": "/images/luxe-hair-studio/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#5B2333",
+    "accent": "#D4AF37"
+  },
+  "gallery": [
+    "/images/luxe-hair-studio/gallery-1.svg",
+    "/images/luxe-hair-studio/gallery-2.svg",
+    "/images/luxe-hair-studio/gallery-3.svg",
+    "/images/luxe-hair-studio/gallery-4.svg",
+    "/images/luxe-hair-studio/gallery-5.svg",
+    "/images/luxe-hair-studio/gallery-6.svg"
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts",
+      "items": [
+        { "name": "Women's Haircut", "price": "$75+" },
+        { "name": "Men's Haircut", "price": "$45+" },
+        { "name": "Bang Trim", "price": "$20" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "All-Over Color", "price": "$135+" },
+        { "name": "Balayage", "price": "$225+" },
+        { "name": "Root Touch-Up", "price": "$95+" }
+      ]
+    },
+    {
+      "category": "Styling",
+      "items": [
+        { "name": "Blowout", "price": "$55" },
+        { "name": "Special Occasion Style", "price": "$110+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Marisol Vega",
+      "photo": "/images/luxe-hair-studio/stylist-marisol.svg",
+      "bio": "Color specialist with 12 years of experience in dimensional balayage.",
+      "bookingUrl": "https://booking.example.com/luxe-hair-studio/marisol"
+    },
+    {
+      "name": "Devon Reyes",
+      "photo": "/images/luxe-hair-studio/stylist-devon.svg",
+      "bio": "Precision cutting expert known for modern, low-maintenance shapes.",
+      "bookingUrl": "https://booking.example.com/luxe-hair-studio/devon"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Alicia M.",
+      "text": "Marisol completely transformed my hair color and it looked so natural. Best balayage I've ever had.",
+      "rating": 5
+    },
+    {
+      "name": "James P.",
+      "text": "Devon gave me the best haircut I've had in years. Clean, modern, and exactly what I asked for.",
+      "rating": 5
+    },
+    {
+      "name": "Nina K.",
+      "text": "Great vibe, great stylists. Only downside is it can be hard to get a same-week appointment.",
+      "rating": 4
+    }
+  ],
+  "contact": {
+    "phone": "(312) 555-0199",
+    "email": "hello@luxehairstudio.com",
+    "address": "88 Winslow Ave, Chicago, IL 60614",
+    "hours": [
+      { "day": "Mon–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 5pm" },
+      { "day": "Sunday", "time": "Closed" }
+    ]
+  }
+}

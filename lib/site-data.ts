@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import type { SiteData } from "./types";
+import type { AnySiteData } from "./types";
 
 const DATA_DIR = path.join(process.cwd(), "data");
 
@@ -11,13 +11,13 @@ export function getAllSlugs(): string[] {
     .map((file) => file.replace(/\.json$/, ""));
 }
 
-export function getSiteData(slug: string): SiteData | null {
+export function getSiteData(slug: string): AnySiteData | null {
   const filePath = path.join(DATA_DIR, `${slug}.json`);
   if (!fs.existsSync(filePath)) return null;
   const raw = fs.readFileSync(filePath, "utf-8");
-  return JSON.parse(raw) as SiteData;
+  return JSON.parse(raw) as AnySiteData;
 }
 
-export function getAllSites(): { slug: string; data: SiteData }[] {
+export function getAllSites(): { slug: string; data: AnySiteData }[] {
   return getAllSlugs().map((slug) => ({ slug, data: getSiteData(slug)! }));
 }
