@@ -74,6 +74,7 @@ export interface ServiceCategory {
 
 export interface Stylist {
   name: string;
+  title?: string;
   photo: string;
   bio: string;
   bookingUrl?: string;
@@ -110,7 +111,7 @@ export interface HairSalonData {
     primary: string;
     accent: string;
   };
-  gallery: string[];
+  gallery: { image: string; label: string }[];
   serviceCategories: ServiceCategory[];
   stylists: Stylist[];
   reviews: Review[];

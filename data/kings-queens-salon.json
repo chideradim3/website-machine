@@ -1,0 +1,92 @@
+{
+  "type": "hairsalon",
+  "name": "Kings & Queens Salon",
+  "tagline": "Crowned Every Day.",
+  "description": "A modern salon for kings and queens who want sharp cuts, bold color, and royal treatment every visit.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/kings-queens-salon",
+  "fonts": {
+    "heading": "Cormorant Garamond",
+    "body": "Manrope"
+  },
+  "hero": {
+    "title": "Where every visit feels like a coronation.",
+    "subtitle": "Precision cuts, bold color, and royal styling — book your throne time today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#1A1A2E",
+    "accent": "#D4AF37"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts",
+      "items": [
+        { "name": "Women's Haircut", "price": "$80+" },
+        { "name": "Men's Haircut", "price": "$50+" },
+        { "name": "Bang Trim", "price": "$20" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "All-Over Color", "price": "$140+" },
+        { "name": "Balayage", "price": "$235+" },
+        { "name": "Root Touch-Up", "price": "$100+" }
+      ]
+    },
+    {
+      "category": "Styling",
+      "items": [
+        { "name": "Blowout", "price": "$60" },
+        { "name": "Special Occasion Style", "price": "$120+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Ms. Latisha Cummings",
+      "title": "Owner & Lead Stylist",
+      "photo": "/images/kings-queens-salon/owner-latisha.png",
+      "bio": "Founder of Kings & Queens with 15 years behind the chair, known for sharp precision cuts and bold color transformations.",
+      "bookingUrl": "https://booking.example.com/kings-queens-salon/latisha"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Priya S.",
+      "text": "Latisha gave me the most precise cut I've ever had. This place lives up to its name.",
+      "rating": 5
+    },
+    {
+      "name": "Marcus T.",
+      "text": "Walked in feeling average, walked out feeling like royalty. Booking again next month.",
+      "rating": 5
+    },
+    {
+      "name": "Elena R.",
+      "text": "Loved the color work, though it took a bit longer than expected.",
+      "rating": 4
+    }
+  ],
+  "contact": {
+    "phone": "(318) 344-3618",
+    "email": "latishalatisha26@yahoo.com",
+    "address": "3015 W 70th St, Shreveport, LA 71108, United States",
+    "hours": [
+      { "day": "Mon–Fri", "time": "10am – 8pm" },
+      { "day": "Saturday", "time": "9am – 6pm" },
+      { "day": "Sunday", "time": "Closed" }
+    ]
+  }
+}

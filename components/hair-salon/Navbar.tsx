@@ -19,7 +19,9 @@ export default function Navbar({ data }: { data: HairSalonData }) {
   const links = [
     { href: "#gallery", label: "Gallery" },
     { href: "#services", label: "Services" },
-    ...(data.stylists.length > 0 ? [{ href: "#stylists", label: "Stylists" }] : []),
+    ...(data.stylists.length > 0
+      ? [{ href: "#stylists", label: data.stylists.length === 1 ? "Owner" : "Stylists" }]
+      : []),
     { href: "#reviews", label: "Reviews" },
     { href: "#contact", label: "Contact" },
   ];

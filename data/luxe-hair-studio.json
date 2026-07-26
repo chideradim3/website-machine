@@ -12,8 +12,8 @@
   "hero": {
     "title": "Hair that turns heads, styled by artists who listen.",
     "subtitle": "Custom color, precision cuts, and styling tailored to you — book your first visit today.",
-    "heroVideo": "/images/luxe-hair-studio/hair video.mp4",
-    "heroImage": "/images/luxe-hair-studio/hair-image.jpg",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
     "ctaText": "Book Now"
   },
   "colors": {
@@ -21,12 +21,12 @@
     "accent": "#D4AF37"
   },
   "gallery": [
-    "/images/luxe-hair-studio/gallery-1.svg",
-    "/images/luxe-hair-studio/gallery-2.svg",
-    "/images/luxe-hair-studio/gallery-3.svg",
-    "/images/luxe-hair-studio/gallery-4.svg",
-    "/images/luxe-hair-studio/gallery-5.svg",
-    "/images/luxe-hair-studio/gallery-6.svg"
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
   ],
   "serviceCategories": [
     {
@@ -56,15 +56,10 @@
   "stylists": [
     {
       "name": "Marisol Vega",
+      "title": "Owner & Master Colorist",
       "photo": "/images/luxe-hair-studio/stylist-marisol.svg",
       "bio": "Color specialist with 12 years of experience in dimensional balayage.",
       "bookingUrl": "https://booking.example.com/luxe-hair-studio/marisol"
-    },
-    {
-      "name": "Devon Reyes",
-      "photo": "/images/luxe-hair-studio/stylist-devon.svg",
-      "bio": "Precision cutting expert known for modern, low-maintenance shapes.",
-      "bookingUrl": "https://booking.example.com/luxe-hair-studio/devon"
     }
   ],
   "reviews": [
