@@ -1,0 +1,97 @@
+{
+  "type": "hairsalon",
+  "name": "Roots and Boots Salon",
+  "tagline": "Down-To-Earth Style, Every Time.",
+  "description": "A friendly neighborhood salon offering precision cuts, dimensional color, and a warm, welcoming atmosphere for the whole family.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/roots-and-boots-salon",
+  "fonts": {
+    "heading": "Cormorant Garamond",
+    "body": "Manrope"
+  },
+  "hero": {
+    "title": "Real style, rooted in you.",
+    "subtitle": "Custom color, precision cuts, and styling tailored to you — book your first visit today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#5C3A21",
+    "accent": "#B5651D"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts",
+      "items": [
+        { "name": "Women's Haircut", "price": "$75+" },
+        { "name": "Men's Haircut", "price": "$45+" },
+        { "name": "Kid's Haircut", "price": "$30+" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "All-Over Color", "price": "$135+" },
+        { "name": "Balayage", "price": "$225+" },
+        { "name": "Root Touch-Up", "price": "$95+" }
+      ]
+    },
+    {
+      "category": "Styling",
+      "items": [
+        { "name": "Blowout", "price": "$55" },
+        { "name": "Special Occasion Style", "price": "$110+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & CEO",
+      "photo": "/images/roots-and-boots-salon/stylist-owner.svg",
+      "bio": "Founder of Roots and Boots Salon, dedicated to building a down-to-earth space where every client feels at home.",
+      "bookingUrl": "https://booking.example.com/roots-and-boots-salon/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Samantha Rodabaugh",
+      "text": "I have been to Haylee three times now, starting with just a cut, then went blonde from brown hair. As we all know it's a process when u do that and she did it with grace. Not only did she do amazing on my hair, she is all around an upfront and honest lady! Will definitely be back!!",
+      "rating": 5
+    },
+    {
+      "name": "Quinn Sumrall",
+      "text": "Tanya did a great job. She's very kind and worked quickly. I was in and out in about 30 minutes and got a great cut.",
+      "rating": 5
+    },
+    {
+      "name": "April Leatherwood",
+      "text": "I brought my son here for the first time for a haircut and we are definitely gonna be repeat customers. Miss Christy did an amazing job on my son's hair and the atmosphere was so nice and positive. I am glad we found this little gem.",
+      "rating": 5
+    },
+    {
+      "name": "Pinx Queen",
+      "text": "Haylee is amazing. If you are looking for a great conversation and an amazing colorist, book with Haylee. She went above and beyond for me!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@rootsandbootssalon.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Mon–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 5pm" },
+      { "day": "Sunday", "time": "Closed" }
+    ]
+  }
+}
