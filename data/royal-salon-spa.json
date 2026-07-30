@@ -1,0 +1,114 @@
+{
+  "type": "hairsalon",
+  "name": "Royal Salon & Spa",
+  "tagline": "Beauty Fit For Royalty.",
+  "description": "A full-service salon and spa offering precision hair styling, artistic nail design, and relaxing massage therapy in a warm, welcoming space.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/royal-salon-spa",
+  "fonts": {
+    "heading": "Cormorant Garamond",
+    "body": "Manrope"
+  },
+  "hero": {
+    "title": "Where beauty meets royal treatment.",
+    "subtitle": "Hair, nails, and massage therapy tailored to you — book your visit to Royal Salon & Spa today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#C08497",
+    "accent": "#C9A227"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts",
+      "items": [
+        { "name": "Women's Haircut", "price": "$80+" },
+        { "name": "Men's Haircut", "price": "$50+" },
+        { "name": "Bang Trim", "price": "$20" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "All-Over Color", "price": "$140+" },
+        { "name": "Balayage", "price": "$235+" },
+        { "name": "Root Touch-Up", "price": "$100+" }
+      ]
+    },
+    {
+      "category": "Styling",
+      "items": [
+        { "name": "Blowout", "price": "$60" },
+        { "name": "Special Occasion Style", "price": "$120+" }
+      ]
+    },
+    {
+      "category": "Nails",
+      "items": [
+        { "name": "Classic Manicure", "price": "$35" },
+        { "name": "Gel Manicure", "price": "$50" },
+        { "name": "Custom Nail Art", "price": "$65+" }
+      ]
+    },
+    {
+      "category": "Massage",
+      "items": [
+        { "name": "60-Minute Massage", "price": "$90" },
+        { "name": "90-Minute Massage", "price": "$130" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & CEO",
+      "photo": "/images/royal-salon-spa/stylist-owner.svg",
+      "bio": "Founder of Royal Salon & Spa, dedicated to building a warm and welcoming space where every client leaves feeling like royalty.",
+      "bookingUrl": "https://booking.example.com/royal-salon-spa/owner"
+    },
+    {
+      "name": "Khalicia",
+      "title": "Nail Technician",
+      "photo": "/images/royal-salon-spa/stylist-khalicia.svg",
+      "bio": "Talented nail artist known for bringing clients' nail vision to life with precision and creativity.",
+      "bookingUrl": "https://booking.example.com/royal-salon-spa/khalicia"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Madison Bates",
+      "text": "I absolutely loved my experience at Royal Salon! Lillie did my hair and gave me exactly what I asked for. She took the time to answer all my questions, and the rest of the staff were so warm and welcoming. I'll definitely be coming back!",
+      "rating": 5
+    },
+    {
+      "name": "Christiana Newel",
+      "text": "Brynn is an amazing nail tech! She always makes my vision come to life. I recommend her to everyone that is looking to get their nails done.",
+      "rating": 5
+    },
+    {
+      "name": "Brittany Wilkerson",
+      "text": "Melissa gave me a great new head of hair! I am so happy to have finally found a great stylist, who also has great conversation with me! I have also gotten 2 massages here and they were fantastic! 10/10 recommended!!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(318) 865-5225",
+    "email": "hello@royalsalonandspa.com",
+    "address": "9200 Wallace Lake Rd, Shreveport, LA 71106, United States",
+    "hours": [
+      { "day": "Mon–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 5pm" },
+      { "day": "Sunday", "time": "Closed" }
+    ]
+  }
+}
