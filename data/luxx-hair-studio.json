@@ -1,0 +1,101 @@
+{
+  "type": "hairsalon",
+  "name": "Luxx Hair Studio",
+  "tagline": "Luxury You Can Feel.",
+  "description": "Luxx Hair Studio is a modern luxury salon offering expert color, precision cuts, extensions, and signature styling — an elevated experience from the moment you sit in the chair.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/luxx-hair-studio",
+  "fonts": {
+    "heading": "Italiana",
+    "body": "Jost"
+  },
+  "hero": {
+    "title": "Elevated hair. Effortless luxury.",
+    "subtitle": "Expert color, precision cuts, and luxury extensions in a beautiful, modern studio — book your experience today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#141414",
+    "accent": "#C9A27E"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Women's Cut & Style", "price": "$85+" },
+        { "name": "Men's Cut", "price": "$45+" },
+        { "name": "Luxx Blowout", "price": "$60" },
+        { "name": "Special Occasion Style", "price": "$120+" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "All-Over Color", "price": "$140+" },
+        { "name": "Balayage", "price": "$240+" },
+        { "name": "Full Highlights", "price": "$200+" },
+        { "name": "Gloss / Toner", "price": "$65+" }
+      ]
+    },
+    {
+      "category": "Extensions & Treatments",
+      "items": [
+        { "name": "Hand-Tied Extensions", "price": "Consultation" },
+        { "name": "Tape-In Extensions", "price": "$300+" },
+        { "name": "Keratin Smoothing Treatment", "price": "$250+" },
+        { "name": "Bond-Repair Treatment", "price": "$45+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Lead Stylist",
+      "photo": "/images/luxx-hair-studio/stylist-owner.svg",
+      "bio": "Founder of Luxx Hair Studio, creating a luxury salon experience where every client feels pampered, heard, and leaves with hair they love.",
+      "bookingUrl": "https://booking.example.com/luxx-hair-studio/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Nicole A.",
+      "text": "From the moment I walked in I felt pampered. My balayage is stunning and the studio is absolutely beautiful.",
+      "rating": 5
+    },
+    {
+      "name": "Jordan K.",
+      "text": "Best extensions I've ever had — seamless, natural, and so comfortable. Luxx is worth every penny.",
+      "rating": 5
+    },
+    {
+      "name": "Ashley B.",
+      "text": "Professional, welcoming, and so talented. My cut and color came out exactly how I pictured it.",
+      "rating": 5
+    },
+    {
+      "name": "Maria G.",
+      "text": "The Luxx blowout is a must. Truly a luxury experience from start to finish.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@luxxhairstudio.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
