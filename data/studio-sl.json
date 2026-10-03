@@ -1,0 +1,99 @@
+{
+  "type": "hairsalon",
+  "name": "Studio SL",
+  "tagline": "Beauty, Beautifully Simple.",
+  "description": "Studio SL is a boutique beauty salon by Stephanie, offering refined cuts, rich dimensional color, and effortless styling in a calm, modern space.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/studio-sl",
+  "fonts": {
+    "heading": "Bodoni Moda",
+    "body": "Manrope"
+  },
+  "hero": {
+    "title": "Effortless beauty, thoughtfully crafted.",
+    "subtitle": "Refined cuts, rich color, and polished styling from Stephanie at Studio SL — book your appointment today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#2F2F2F",
+    "accent": "#B08D7E"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts",
+      "items": [
+        { "name": "Women's Cut & Style", "price": "$75+" },
+        { "name": "Men's Cut", "price": "$40+" },
+        { "name": "Fringe / Bang Trim", "price": "$15" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "All-Over Color", "price": "$130+" },
+        { "name": "Copper & Red Specialty Color", "price": "$150+" },
+        { "name": "Balayage", "price": "$220+" },
+        { "name": "Gloss / Toner", "price": "$60+" }
+      ]
+    },
+    {
+      "category": "Styling & Treatments",
+      "items": [
+        { "name": "Blowout", "price": "$55" },
+        { "name": "Bridal & Special Occasion", "price": "$120+" },
+        { "name": "Bond-Repair Treatment", "price": "$45+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Stephanie",
+      "title": "Owner & Lead Stylist",
+      "photo": "/images/studio-sl/owner-stephanie.png",
+      "bio": "Stephanie founded Studio SL to create a calm, elevated space where every client is truly listened to. She loves rich, dimensional color — especially warm coppers and reds — and polished, effortless styles that fit real life.",
+      "bookingUrl": "https://booking.example.com/studio-sl/stephanie"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Lauren K.",
+      "text": "Stephanie nailed my copper color — it's exactly the shade I've been chasing for years. The studio is gorgeous and so relaxing.",
+      "rating": 5
+    },
+    {
+      "name": "Amanda P.",
+      "text": "Best haircut I've had in a long time. She really listens and gives honest advice about what will work for your hair.",
+      "rating": 5
+    },
+    {
+      "name": "Rachel D.",
+      "text": "Stephanie did my bridal hair and it held beautifully all night. I felt so taken care of from start to finish.",
+      "rating": 5
+    },
+    {
+      "name": "Megan S.",
+      "text": "Clean, calm, and beautifully designed salon. My blowout lasted almost a week. Highly recommend Studio SL!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@studiosl.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 4pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
