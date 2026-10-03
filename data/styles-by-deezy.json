@@ -1,0 +1,100 @@
+{
+  "type": "hairsalon",
+  "name": "Styles by Deezy",
+  "tagline": "First Come, First Served.",
+  "description": "Styles by Deezy is a Houston hair stylist serving braids, natural styles, and sleek installs. Deposits are required to secure all appointments, and hair must be washed and fully detangled before your visit.",
+  "logo": "",
+  "bookingUrl": "sms:+18324133753",
+  "fonts": {
+    "heading": "Bebas Neue",
+    "body": "Poppins"
+  },
+  "hero": {
+    "title": "Your next look starts here.",
+    "subtitle": "Braids, natural styles, and installs in Houston, TX. Text 832-413-3753 with your name, desired style, and preferred date and time to book.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Text to Book"
+  },
+  "colors": {
+    "primary": "#0E0A14",
+    "accent": "#9B30FF"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Braids",
+      "items": [
+        { "name": "Knotless Braids", "price": "$180+" },
+        { "name": "Box Braids", "price": "$160+" },
+        { "name": "Stitch Braids", "price": "$100+" },
+        { "name": "Fulani Braids", "price": "$150+" }
+      ]
+    },
+    {
+      "category": "Natural Styles",
+      "items": [
+        { "name": "Twists", "price": "$120+" },
+        { "name": "Cornrows", "price": "$80+" },
+        { "name": "Silk Press", "price": "$85+" }
+      ]
+    },
+    {
+      "category": "Installs & Extras",
+      "items": [
+        { "name": "Sew-In", "price": "$150+" },
+        { "name": "Quick Weave", "price": "$100+" },
+        { "name": "Wash & Detangle Add-On", "price": "$30" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Deezy",
+      "title": "Owner & Stylist",
+      "photo": "/images/styles-by-deezy/stylist-owner.svg",
+      "bio": "Houston stylist behind Styles by Deezy. Please be payment ready when booking: deposits secure all appointments, there's a 10-minute grace period (late fees after 15 minutes), and hair must be washed and fully detangled before your appointment.",
+      "bookingUrl": "sms:+18324133753"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Aaliyah R.",
+      "text": "Deezy is so talented! My knotless braids came out neat, light, and exactly the size I wanted. Worth every penny.",
+      "rating": 5
+    },
+    {
+      "name": "Jasmine T.",
+      "text": "On time, professional, and my stitch braids were flawless. Booking by text was super easy.",
+      "rating": 5
+    },
+    {
+      "name": "Tiana W.",
+      "text": "Best stylist in Houston. My style lasted weeks and still looked fresh. Booking again ASAP!",
+      "rating": 5
+    },
+    {
+      "name": "Brianna L.",
+      "text": "Clean parts, great vibes, and she really takes her time. Highly recommend Styles by Deezy.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(832) 413-3753",
+    "email": "hello@stylesbydeezy.com",
+    "address": "Houston, TX (address shared after booking)",
+    "hours": [
+      { "day": "Tuesday", "time": "8am – 3pm" },
+      { "day": "Thu–Fri", "time": "6am – 3pm" },
+      { "day": "Saturday", "time": "From 7am" },
+      { "day": "Sun, Mon, Wed", "time": "Closed" }
+    ]
+  }
+}
