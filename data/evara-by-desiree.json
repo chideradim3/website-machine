@@ -1,0 +1,90 @@
+{
+  "type": "hairsalon",
+  "name": "Evara by Desiree",
+  "tagline": "Belleza que cuida, estilo que ahorra.",
+  "description": "Evara by Desiree es un studio de trenzas en Carolina, Puerto Rico. Trenzas boxeadoras, francesas y de pescado con tu cabello propio o con extensiones — en el studio o a domicilio.",
+  "logo": "",
+  "bookingUrl": "https://wa.me/17875074267",
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Montserrat"
+  },
+  "hero": {
+    "title": "Luce tu mejor versión.",
+    "subtitle": "Trenzas boxeadoras, francesas y de pescado en Carolina o a domicilio. Agenda tu cita por WhatsApp.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "¡Reserva Ahora!"
+  },
+  "colors": {
+    "primary": "#141012",
+    "accent": "#C2577A"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Corte de Precisión" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blower" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Retoque de Raíz" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Ocasión Especial" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Color Completo" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Trenzas Boxeadoras (sin extensiones)",
+      "items": [
+        { "name": "2 Trenzas Boxeadoras", "price": "$15" },
+        { "name": "4 Trenzas Boxeadoras", "price": "$25" },
+        { "name": "6 Trenzas Boxeadoras", "price": "$35" }
+      ]
+    },
+    {
+      "category": "Otras Trenzas",
+      "items": [
+        { "name": "1 Trenza Francesa", "price": "$15" },
+        { "name": "Trenza de Pescado", "price": "Desde $20" },
+        { "name": "Con Extensiones (incluidas)", "price": "+$10" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Desiree",
+      "title": "Dueña y Trenzista",
+      "photo": "/images/evara-by-desiree/stylist-desiree.svg",
+      "bio": "Desiree creó Evara para ofrecer trenzas bonitas, limpias y duraderas a precios que ahorran. Trabaja con tu cabello propio o con extensiones, en su studio en Carolina o a domicilio.",
+      "bookingUrl": "https://wa.me/17875074267"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Yamilette R.",
+      "text": "¡Me encantaron mis boxeadoras! Quedaron bien parejitas y me duraron muchísimo. Desiree es súper amable.",
+      "rating": 5
+    },
+    {
+      "name": "Coral M.",
+      "text": "Vino a mi casa a hacerle las trenzas a mi nena y quedaron preciosas. Puntual y a muy buen precio.",
+      "rating": 5
+    },
+    {
+      "name": "Nicole V.",
+      "text": "La trenza de pescado quedó espectacular para mi evento. ¡Ya tengo mi próxima cita!",
+      "rating": 5
+    },
+    {
+      "name": "Karla S.",
+      "text": "Excelente trabajo y bien rápida. Las extensiones se ven bien naturales. ¡Recomendadísima!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(787) 507-4267",
+    "email": "hola@evarabydesiree.com",
+    "address": "Studio en Carolina, Puerto Rico — o a domicilio",
+    "hours": [
+      { "day": "Martes–Viernes", "time": "9am – 6pm" },
+      { "day": "Sábado", "time": "8am – 4pm" },
+      { "day": "Domingo–Lunes", "time": "Cerrado" }
+    ]
+  }
+}
