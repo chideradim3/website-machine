@@ -1,0 +1,98 @@
+{
+  "type": "hairsalon",
+  "name": "Tracy's Blessed Hands Salon",
+  "tagline": "Faith. Beauty. Purpose.",
+  "description": "A faith-centered salon led by Tracy Allen, bringing 35+ years of experience in healthy hair care and beautiful transformations to every client who sits in her chair.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/tracys-blessed-hands-salon",
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Manrope"
+  },
+  "hero": {
+    "title": "You are beautifully and wonderfully made.",
+    "subtitle": "Healthy hair care and stunning transformations from hands with 35+ years of experience — book your appointment today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#111111",
+    "accent": "#E0457B"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Healthy Hair Care",
+      "items": [
+        { "name": "Silk Press", "price": "$85+" },
+        { "name": "Wash & Style", "price": "$55+" },
+        { "name": "Deep Conditioning Treatment", "price": "$40+" },
+        { "name": "Trim", "price": "$25+" }
+      ]
+    },
+    {
+      "category": "Cuts & Color",
+      "items": [
+        { "name": "Short Cut / Pixie Style", "price": "$65+" },
+        { "name": "All-Over Color", "price": "$95+" },
+        { "name": "Highlights", "price": "$120+" }
+      ]
+    },
+    {
+      "category": "Styling",
+      "items": [
+        { "name": "Special Occasion Style", "price": "$95+" },
+        { "name": "Updo", "price": "$85+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Tracy Allen",
+      "title": "Owner & Lead Stylist",
+      "photo": "/images/tracys-blessed-hands-salon/owner-tracy.jpg",
+      "bio": "With 35+ years in healthy hair care and hair transformations, Tracy founded Blessed Hands on a simple belief: beautiful hair is her ministry. Expect boss-lady energy, expert hands, and a chair where you leave feeling as beautiful as you were made.",
+      "bookingUrl": "https://booking.example.com/tracys-blessed-hands-salon/tracy"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Denise W.",
+      "text": "Ms. Tracy is truly blessed! My silk press was flawless and my hair has never felt healthier. You can feel the love in that salon.",
+      "rating": 5
+    },
+    {
+      "name": "Keisha M.",
+      "text": "I came in wanting a short cut with some color and she gave me exactly the look I had in my head. I've been getting compliments all week.",
+      "rating": 5
+    },
+    {
+      "name": "Angela R.",
+      "text": "Over 35 years of experience and it shows. Professional, on time, and she really cares about the health of your hair.",
+      "rating": 5
+    },
+    {
+      "name": "Tonya B.",
+      "text": "Such a warm, uplifting atmosphere. I walk out feeling beautiful inside and out every single time.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@tracysblessedhandssalon.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "8am – 4pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
