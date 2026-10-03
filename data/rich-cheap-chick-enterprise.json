@@ -1,0 +1,96 @@
+{
+  "type": "hairsalon",
+  "name": "Rich Cheap Chick Enterprise",
+  "tagline": "Look Rich. Pay Cheap.",
+  "description": "A pretty-in-pink nail studio in Southaven, MS serving luxe nail sets, custom nail art, and pampering pedicures — the rich look without the rich price.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/rich-cheap-chick-enterprise",
+  "fonts": {
+    "heading": "DM Serif Display",
+    "body": "Poppins"
+  },
+  "hero": {
+    "title": "Luxe nails, sweet prices.",
+    "subtitle": "Custom sets, dreamy nail art, and pampering pedicures in Southaven — book your pink set today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Your Set"
+  },
+  "colors": {
+    "primary": "#5A1E3D",
+    "accent": "#E46A9E"
+  },
+  "gallery": [
+    { "image": "/images/rich-cheap-chick-enterprise/nails-pink-ribbon.jpg", "label": "Pink Ribbon Art" },
+    { "image": "/images/rich-cheap-chick-enterprise/nails-pink-bow.jpg", "label": "Pink Bow Set" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Nail Sets",
+      "items": [
+        { "name": "Full Set (Acrylic)", "price": "$45+" },
+        { "name": "Gel-X Full Set", "price": "$50+" },
+        { "name": "Fill-In", "price": "$35+" },
+        { "name": "Gel Manicure", "price": "$30+" }
+      ]
+    },
+    {
+      "category": "Nail Art & Add-Ons",
+      "items": [
+        { "name": "Custom Nail Art", "price": "$10+" },
+        { "name": "French / Ombré", "price": "$10+" },
+        { "name": "3D Bows & Charms", "price": "$5+" },
+        { "name": "Soak-Off", "price": "$15" }
+      ]
+    },
+    {
+      "category": "Pedicures",
+      "items": [
+        { "name": "Classic Pedicure", "price": "$35+" },
+        { "name": "Gel Pedicure", "price": "$45+" },
+        { "name": "Deluxe Spa Pedicure", "price": "$55+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Lead Nail Tech",
+      "photo": "/images/rich-cheap-chick-enterprise/owner.jpg",
+      "bio": "Founder of Rich Cheap Chick Enterprise, built on one belief: every woman deserves to look and feel rich — without breaking the bank. Expect flawless sets, fun custom art, and a whole lot of pink.",
+      "bookingUrl": "https://booking.example.com/rich-cheap-chick-enterprise/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Tasha M.",
+      "text": "My pink bow set is everything! So clean, so cute, and the price was unbeatable. I'm never going anywhere else.",
+      "rating": 5
+    },
+    {
+      "name": "Brittany J.",
+      "text": "She took my Pinterest picture and made it even better. My nails lasted over three weeks with no lifting.",
+      "rating": 5
+    },
+    {
+      "name": "Keondra W.",
+      "text": "Rich look, cheap price — they really mean it. Friendly vibe and my pedicure was so relaxing.",
+      "rating": 5
+    },
+    {
+      "name": "Alicia R.",
+      "text": "Best nail tech in Southaven, hands down. Always on time and the nail art is so detailed.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(662) 253-8871",
+    "email": "hello@richcheapchick.com",
+    "address": "362 Stateline Rd W., Southaven, MS 38671",
+    "hours": [
+      { "day": "Tue–Fri", "time": "10am – 7pm" },
+      { "day": "Saturday", "time": "9am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
