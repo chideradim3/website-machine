@@ -1,0 +1,101 @@
+{
+  "type": "hairsalon",
+  "name": "Nu Me Hair & Beauty",
+  "tagline": "A Calmer Kind of Beautiful.",
+  "description": "A relaxed, light-filled hair and beauty salon in Mount Barker, specialising in vivid color, lived-in blondes, and cuts that feel like a brand new you.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/nu-me-hair-beauty",
+  "fonts": {
+    "heading": "Jost",
+    "body": "Manrope"
+  },
+  "hero": {
+    "title": "Step in. Leave a new you.",
+    "subtitle": "Vivid color, soft blondes, and tailored cuts in a calm, welcoming space in Mount Barker — book your visit today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#3E2C23",
+    "accent": "#A8673F"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts",
+      "items": [
+        { "name": "Women's Cut & Style", "price": "$75+" },
+        { "name": "Men's Cut", "price": "$40+" },
+        { "name": "Kid's Cut", "price": "$30+" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Vivid / Fashion Color", "price": "$180+" },
+        { "name": "Balayage", "price": "$220+" },
+        { "name": "Foils", "price": "$150+" },
+        { "name": "Root Touch-Up", "price": "$95+" }
+      ]
+    },
+    {
+      "category": "Beauty & Styling",
+      "items": [
+        { "name": "Blow-Dry", "price": "$55" },
+        { "name": "Treatment", "price": "$35+" },
+        { "name": "Brow Shape & Tint", "price": "$40" },
+        { "name": "Special Occasion Style", "price": "$110+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Lead Stylist",
+      "photo": "/images/nu-me-hair-beauty/owner.jpg",
+      "bio": "Founder of Nu Me Hair & Beauty and a lover of bold, vivid color, she built a calm, supportive salon where every client walks out feeling like a brand new version of themselves.",
+      "bookingUrl": "https://booking.example.com/nu-me-hair-beauty/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Jess T.",
+      "text": "Absolutely in love with my rainbow color! So vibrant and my hair still feels soft and healthy. The salon is so calm and beautiful too.",
+      "rating": 5
+    },
+    {
+      "name": "Megan L.",
+      "text": "Finally found my go-to salon in Mount Barker. My balayage is exactly what I asked for and the whole experience was so relaxing.",
+      "rating": 5
+    },
+    {
+      "name": "Chloe R.",
+      "text": "Friendly, professional, and genuinely talented. I left feeling like a new me — the name says it all!",
+      "rating": 5
+    },
+    {
+      "name": "Sarah W.",
+      "text": "Brought my daughter in for her first proper haircut and she loved it. Such a welcoming, supportive space.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(08) 0000 0000",
+    "email": "hello@numehairandbeauty.com",
+    "address": "Mount Barker (full address to come)",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 5:30pm" },
+      { "day": "Thursday Late", "time": "until 8pm" },
+      { "day": "Saturday", "time": "8:30am – 2pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
