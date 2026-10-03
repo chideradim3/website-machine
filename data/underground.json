@@ -1,0 +1,100 @@
+{
+  "type": "hairsalon",
+  "name": "Underground",
+  "tagline": "Hair With an Edge.",
+  "description": "Underground is an independent salon for bold cuts, sharp fades, vivid color, and styles that break the mold — no rules, just great hair.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/underground",
+  "fonts": {
+    "heading": "Oswald",
+    "body": "Archivo"
+  },
+  "hero": {
+    "title": "Break the mold.",
+    "subtitle": "Bold cuts, sharp fades, and vivid color from stylists who don't play it safe — book your chair today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Your Chair"
+  },
+  "colors": {
+    "primary": "#121212",
+    "accent": "#D7263D"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts",
+      "items": [
+        { "name": "Signature Cut & Style", "price": "$70+" },
+        { "name": "Shag / Mullet / Wolf Cut", "price": "$80+" },
+        { "name": "Skin Fade", "price": "$40+" },
+        { "name": "Buzz & Line-Up", "price": "$30+" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Vivid / Fashion Color", "price": "$180+" },
+        { "name": "Bleach & Tone", "price": "$160+" },
+        { "name": "Color Blocking / Split Dye", "price": "$200+" },
+        { "name": "Root Touch-Up", "price": "$90+" }
+      ]
+    },
+    {
+      "category": "Extras",
+      "items": [
+        { "name": "Blowout / Style", "price": "$50+" },
+        { "name": "Bond-Repair Treatment", "price": "$40+" },
+        { "name": "Beard Trim & Shape", "price": "$20+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Lead Stylist",
+      "photo": "/images/underground/stylist-owner.svg",
+      "bio": "Founder of Underground, building a salon where creativity comes first and every client walks out with a look that's all their own.",
+      "bookingUrl": "https://booking.example.com/underground/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Riley C.",
+      "text": "Finally a salon that gets it. My wolf cut and split dye came out exactly how I imagined. The vibe is unmatched.",
+      "rating": 5
+    },
+    {
+      "name": "Marcus D.",
+      "text": "Cleanest skin fade I've had in years. Chill atmosphere and great music. I'm a regular now.",
+      "rating": 5
+    },
+    {
+      "name": "Sky T.",
+      "text": "My vivid red is so bright and my hair still feels healthy. These stylists really know color.",
+      "rating": 5
+    },
+    {
+      "name": "Jade M.",
+      "text": "Walked in with a wild idea and they made it happen. Underground is the real deal.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@undergroundsalon.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "10am – 8pm" },
+      { "day": "Saturday", "time": "9am – 6pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
