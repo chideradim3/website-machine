@@ -21,9 +21,12 @@
     "accent": "#D4A23A"
   },
   "gallery": [
-    { "image": "/images/j-enchante/braids-stitch-ponytail.jpg", "label": "Stitch Braid Ponytail" },
-    { "image": "/images/j-enchante/braids-twists.jpg", "label": "Twists" },
-    { "image": "/images/j-enchante/braids-feed-in-design.jpg", "label": "Feed-In Design" }
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
   ],
   "serviceCategories": [
     {
