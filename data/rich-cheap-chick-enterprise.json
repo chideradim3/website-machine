@@ -21,6 +21,9 @@
     "accent": "#E46A9E"
   },
   "gallery": [
+    { "image": "/images/rich-cheap-chick-enterprise/nails-burgundy-ombre.jpg", "label": "Burgundy Ombré & Gold" },
+    { "image": "/images/rich-cheap-chick-enterprise/nails-crystal-stiletto.jpg", "label": "Crystal Stilettos" },
+    { "image": "/images/rich-cheap-chick-enterprise/nails-pink-mix-art.jpg", "label": "Mix & Match Art" },
     { "image": "/images/rich-cheap-chick-enterprise/nails-pink-ribbon.jpg", "label": "Pink Ribbon Art" },
     { "image": "/images/rich-cheap-chick-enterprise/nails-pink-bow.jpg", "label": "Pink Bow Set" }
   ],
