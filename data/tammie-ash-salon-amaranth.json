@@ -1,0 +1,107 @@
+{
+  "type": "hairsalon",
+  "name": "Tammie Ash Salon Amaranth",
+  "tagline": "Hair. Beauty. Wellbeing.",
+  "description": "Tammie Ash Salon Amaranth is a calm, light-filled salon for beautiful blondes, lived-in foils, precision cuts, and the perfect blow-dry. Good hair happens here.",
+  "logo": "",
+  "bookingUrl": "tel:+61248722878",
+  "fonts": {
+    "heading": "Cormorant Garamond",
+    "body": "Jost"
+  },
+  "hero": {
+    "title": "Good hair happens here.",
+    "subtitle": "Beautiful blondes, foils, cuts, and blow-dries in a calm, welcoming space. Call to secure your appointment.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Call to Book"
+  },
+  "colors": {
+    "primary": "#3B2F27",
+    "accent": "#9C8268"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blow-Dry" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Colour" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Colour",
+      "items": [
+        { "name": "Full Head of Foils", "price": "$250+" },
+        { "name": "Half Head of Foils", "price": "$180+" },
+        { "name": "Balayage", "price": "$280+" },
+        { "name": "Root Colour", "price": "$110+" },
+        { "name": "Toner / Gloss", "price": "$60+" }
+      ]
+    },
+    {
+      "category": "Cut & Style",
+      "items": [
+        { "name": "Cut & Blow-Dry", "price": "$95+" },
+        { "name": "Blow-Dry", "price": "$55+" },
+        { "name": "Men's Cut", "price": "$45+" }
+      ]
+    },
+    {
+      "category": "Beauty & Wellbeing",
+      "items": [
+        { "name": "Treatment & Head Massage", "price": "$45+" },
+        { "name": "Brow Shape & Tint", "price": "$40+" },
+        { "name": "Special Occasion Styling", "price": "$110+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Tammie Ash",
+      "title": "Owner",
+      "photo": "/images/tammie-ash-salon-amaranth/stylist-owner.svg",
+      "bio": "Founder of Salon Amaranth, Tammie built a space where hair, beauty, and wellbeing come together — because beautiful hair makes happier people.",
+      "bookingUrl": "tel:+61248722878"
+    },
+    {
+      "name": "Emerson",
+      "title": "Stylist",
+      "photo": "/images/tammie-ash-salon-amaranth/stylist-emerson.svg",
+      "bio": "Emerson loves soft, lived-in blondes, full foils, and finishing every look with a flawless cut and blow-dry.",
+      "bookingUrl": "tel:+61248722878"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sophie M.",
+      "text": "My foils have never looked so soft and natural. The salon is gorgeous and I left feeling completely refreshed.",
+      "rating": 5
+    },
+    {
+      "name": "Kate H.",
+      "text": "Emerson is amazing — my blonde is exactly what I wanted and the blow-dry lasted for days.",
+      "rating": 5
+    },
+    {
+      "name": "Rachel P.",
+      "text": "Such a calm, beautiful space. You really feel looked after from the moment you walk in.",
+      "rating": 5
+    },
+    {
+      "name": "Emma L.",
+      "text": "Best cut and colour I've had in years. Good hair really does happen here!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(02) 4872 2878",
+    "email": "hello@salonamaranth.com.au",
+    "address": "Address to come",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 5:30pm" },
+      { "day": "Saturday", "time": "8:30am – 2pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
