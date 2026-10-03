@@ -1,0 +1,104 @@
+{
+  "type": "hairsalon",
+  "name": "J.Enchante",
+  "tagline": "Braids, Locs & Designer Feed-Ins.",
+  "description": "J.Enchante is a Fort Myers braiding studio specialising in knotless and box braids, designer feed-ins, Fulani braids, twists, and loc care — neat parts, clean work, and styles that last.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/j-enchante",
+  "fonts": {
+    "heading": "Cinzel",
+    "body": "Montserrat"
+  },
+  "hero": {
+    "title": "Braided to perfection.",
+    "subtitle": "Knotless braids, designer feed-ins, twists, and loc care in Fort Myers — book your next style today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#111111",
+    "accent": "#D4A23A"
+  },
+  "gallery": [
+    { "image": "/images/j-enchante/braids-stitch-ponytail.jpg", "label": "Stitch Braid Ponytail" },
+    { "image": "/images/j-enchante/braids-twists.jpg", "label": "Twists" },
+    { "image": "/images/j-enchante/braids-feed-in-design.jpg", "label": "Feed-In Design" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Classic Style Braids",
+      "items": [
+        { "name": "Box Braids", "price": "$150" },
+        { "name": "Cornrows", "price": "$90" },
+        { "name": "Knotless Braids", "price": "$170" },
+        { "name": "Simple Twists", "price": "$120" }
+      ]
+    },
+    {
+      "category": "Locs + Men's Braids",
+      "items": [
+        { "name": "Detox", "price": "$75" },
+        { "name": "Retwist", "price": "$80" },
+        { "name": "Retwist & Style", "price": "$100" },
+        { "name": "Braids or Twist", "price": "$80" }
+      ]
+    },
+    {
+      "category": "Designer Feed-Ins",
+      "items": [
+        { "name": "Stitch Braids", "price": "$100" },
+        { "name": "Feed-In (Design)", "price": "$120" },
+        { "name": "Fulani Braids w/ Bundles", "price": "$120" }
+      ]
+    },
+    {
+      "category": "Extra Services",
+      "items": [
+        { "name": "Hair Wash & Blow Dry", "price": "$40" },
+        { "name": "Hair Cut", "price": "$25" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Lead Braider",
+      "photo": "/images/j-enchante/owner.jpg",
+      "bio": "Founder of J.Enchante, bringing precision parts, clean edges, and creative designer feed-ins to every client in Fort Myers. Every style is done with care so you leave feeling enchanted.",
+      "bookingUrl": "https://booking.example.com/j-enchante/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Destiny H.",
+      "text": "My knotless braids are so neat and light! The parts are perfect and they didn't hurt at all. Definitely my new braider.",
+      "rating": 5
+    },
+    {
+      "name": "Kiara B.",
+      "text": "Got the stitch braid ponytail for my daughter and she loved it. Clean work, fair prices, and so patient with her.",
+      "rating": 5
+    },
+    {
+      "name": "Marcus T.",
+      "text": "Retwist and style came out crisp. Professional, on time, and my locs have never looked healthier.",
+      "rating": 5
+    },
+    {
+      "name": "Janae P.",
+      "text": "The feed-in design was even better than the picture I showed her. Best braider in Fort Myers, hands down.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(239) 258-4090",
+    "email": "hello@jenchante.com",
+    "address": "3049 Cleveland Ave Unit 120, 7, Fort Myers, FL 33901",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 6pm" },
+      { "day": "Saturday", "time": "8am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
