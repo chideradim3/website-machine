@@ -1,0 +1,102 @@
+{
+  "type": "hairsalon",
+  "name": "Gift3d Hands",
+  "tagline": "Locs, Braids & Natural Hair.",
+  "description": "Gift3d Hands is a warm, down-to-earth studio for healthy locs, neat braids, and natural hair care — talented hands, real care, and styles that let your natural beauty shine.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/gift3d-hands",
+  "fonts": {
+    "heading": "Fraunces",
+    "body": "DM Sans"
+  },
+  "hero": {
+    "title": "Talented hands. Healthy hair.",
+    "subtitle": "Starter locs, retwists, braids, and natural styles done with care — book your appointment with Gift3d Hands today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#2E3A2A",
+    "accent": "#B8622F"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Locs",
+      "items": [
+        { "name": "Starter Locs", "price": "$120+" },
+        { "name": "Loc Retwist", "price": "$75+" },
+        { "name": "Retwist & Style", "price": "$95+" },
+        { "name": "Loc Detox", "price": "$65+" },
+        { "name": "Loc Color", "price": "$90+" }
+      ]
+    },
+    {
+      "category": "Braids",
+      "items": [
+        { "name": "Knotless Braids", "price": "$180+" },
+        { "name": "Box Braids", "price": "$160+" },
+        { "name": "Stitch Braids", "price": "$90+" },
+        { "name": "Kids' Braids", "price": "$80+" }
+      ]
+    },
+    {
+      "category": "Natural Hair",
+      "items": [
+        { "name": "Two-Strand Twists", "price": "$90+" },
+        { "name": "Wash, Deep Condition & Style", "price": "$60+" },
+        { "name": "Twist-Out / Braid-Out", "price": "$70+" },
+        { "name": "Silk Press", "price": "$85+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Loctician",
+      "photo": "/images/gift3d-hands/owner.jpg",
+      "bio": "The founder of Gift3d Hands believes healthy hair starts with care. She specialises in locs, braids, and natural styles, and every client gets her full attention, gentle hands, and a style they love.",
+      "bookingUrl": "https://booking.example.com/gift3d-hands/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Ebony S.",
+      "text": "My starter locs came out so neat and even. She really took her time and explained how to care for them. Truly gifted hands!",
+      "rating": 5
+    },
+    {
+      "name": "Courtney A.",
+      "text": "Best retwist I've had in a long time. Gentle, no tension, and my locs look healthy and fresh.",
+      "rating": 5
+    },
+    {
+      "name": "Jalen R.",
+      "text": "Chill atmosphere and great conversation. My two-strand twists lasted for weeks.",
+      "rating": 5
+    },
+    {
+      "name": "Tierra M.",
+      "text": "She did my daughter's braids and they were perfect. So patient and kind. We'll definitely be back!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@gift3dhands.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "10am – 7pm" },
+      { "day": "Saturday", "time": "9am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
