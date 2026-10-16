@@ -1,0 +1,99 @@
+{
+  "type": "hairsalon",
+  "name": "Que The Braider",
+  "tagline": "Locs | Braids | Natural Hair.",
+  "description": "Que The Braider is an Orlando loc, braid, and natural hair specialist on W Colonial Dr. Healthy locs, neat braids, and natural styles, all booked easily online through Booksy.",
+  "logo": "",
+  "bookingUrl": "http://booksy.info/QueTheBraider",
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Montserrat"
+  },
+  "hero": {
+    "title": "Healthy locs, flawless braids, beautiful natural hair.",
+    "subtitle": "Now located at 5213 W Colonial Dr, Orlando. I currently have availability — book your appointment online through Booksy.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Online"
+  },
+  "colors": {
+    "primary": "#3A2620",
+    "accent": "#A8743F"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Locs",
+      "items": [
+        { "name": "Starter Locs", "price": "See Booksy" },
+        { "name": "Loc Retwist", "price": "See Booksy" },
+        { "name": "Retwist & Style", "price": "See Booksy" },
+        { "name": "Loc Detox", "price": "See Booksy" }
+      ]
+    },
+    {
+      "category": "Braids",
+      "items": [
+        { "name": "Knotless Braids", "price": "See Booksy" },
+        { "name": "Box Braids", "price": "See Booksy" },
+        { "name": "Stitch Braids / Feed-Ins", "price": "See Booksy" },
+        { "name": "Kids' Braids", "price": "See Booksy" }
+      ]
+    },
+    {
+      "category": "Natural Hair",
+      "items": [
+        { "name": "Two-Strand Twists", "price": "See Booksy" },
+        { "name": "Wash & Go / Twist-Out", "price": "See Booksy" },
+        { "name": "Silk Press", "price": "See Booksy" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Que",
+      "title": "Owner & Braider",
+      "photo": "/images/que-the-braider/stylist-que.svg",
+      "bio": "Que specialises in locs, braids, and natural hair, now at her new location on W Colonial Dr in Orlando. All appointments are booked through Booksy to prevent double bookings and scheduling errors. Thank you for trusting Que with your hair — see you soon!",
+      "bookingUrl": "http://booksy.info/QueTheBraider"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Imani J.",
+      "text": "Que is the best loctician in Orlando. My retwist is always neat and my locs have never been healthier.",
+      "rating": 5
+    },
+    {
+      "name": "Tanisha R.",
+      "text": "My knotless braids came out perfect — light, neat parts, and no tension. Booking on Booksy was so easy.",
+      "rating": 5
+    },
+    {
+      "name": "Andre W.",
+      "text": "Professional, on time, and great vibes. My starter locs came out exactly how I wanted.",
+      "rating": 5
+    },
+    {
+      "name": "Kiara L.",
+      "text": "She takes such good care of natural hair. My twist-out lasted all week. Love the new location too!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "connectwithquee@gmail.com",
+    "address": "5213 W Colonial Dr, Orlando, FL 32808",
+    "hours": [
+      { "day": "By appointment", "time": "Book on Booksy" },
+      { "day": "Questions", "time": "connectwithquee@gmail.com" }
+    ]
+  }
+}
