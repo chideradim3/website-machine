@@ -1,0 +1,101 @@
+{
+  "type": "hairsalon",
+  "name": "SimplyBea Salon",
+  "tagline": "Hair Therapy, Simply Beautiful.",
+  "description": "SimplyBea Salon is a relaxed, welcoming salon offering silver and pastel color, lived-in blondes, healthy-hair treatments, and cuts that feel like therapy for your hair.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/simplybea-salon",
+  "fonts": {
+    "heading": "Gilda Display",
+    "body": "Nunito Sans"
+  },
+  "hero": {
+    "title": "Hair therapy for the real you.",
+    "subtitle": "Silver, pastel, and lived-in color, healthy-hair treatments, and easy cuts in a calm, happy space — book your session today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#3A2A45",
+    "accent": "#8E6BBF"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Silver / Platinum Blonde", "price": "$200+" },
+        { "name": "Pastel & Vivid Color", "price": "$160+" },
+        { "name": "Balayage", "price": "$210+" },
+        { "name": "Root Touch-Up", "price": "$90+" },
+        { "name": "Toner / Gloss", "price": "$55+" }
+      ]
+    },
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Women's Cut & Style", "price": "$70+" },
+        { "name": "Men's Cut", "price": "$40+" },
+        { "name": "Blowout", "price": "$50" },
+        { "name": "Special Occasion Style", "price": "$100+" }
+      ]
+    },
+    {
+      "category": "Hair Therapy",
+      "items": [
+        { "name": "Bond-Repair Treatment", "price": "$45+" },
+        { "name": "Deep Conditioning & Scalp Massage", "price": "$40+" },
+        { "name": "Keratin Smoothing", "price": "$220+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Bea",
+      "title": "Owner & Lead Stylist",
+      "photo": "/images/simplybea-salon/owner.jpg",
+      "bio": "Bea founded SimplyBea to make every appointment feel like hair therapy. She loves silvers, lavenders, and soft lived-in color, and she believes healthy hair and good vibes go hand in hand.",
+      "bookingUrl": "https://booking.example.com/simplybea-salon/bea"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Danielle F.",
+      "text": "Bea turned my brassy blonde into the most gorgeous icy silver. My hair still feels soft and healthy. Obsessed!",
+      "rating": 5
+    },
+    {
+      "name": "Courtney H.",
+      "text": "Truly hair therapy. Relaxing, fun, and I always leave feeling like a new person.",
+      "rating": 5
+    },
+    {
+      "name": "Melissa G.",
+      "text": "She nailed the lavender I've wanted for years. So talented and so sweet. Highly recommend SimplyBea!",
+      "rating": 5
+    },
+    {
+      "name": "Alyssa N.",
+      "text": "Best cut and color I've had in ages. The salon has such a warm, happy vibe.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@simplybeasalon.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 4pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
