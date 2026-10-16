@@ -1,0 +1,107 @@
+{
+  "type": "hairsalon",
+  "name": "Blossom Hair",
+  "tagline": "Hair, Body, Face & Wig Boutique.",
+  "description": "Blossom is a calm, pretty-in-pink boutique for hair, head spa, skin, body treatments, and wigs — a little pamper time for every age, from kids to grown-ups.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/blossom-hair",
+  "fonts": {
+    "heading": "Bodoni Moda",
+    "body": "Montserrat"
+  },
+  "hero": {
+    "title": "A little pamper time, in full bloom.",
+    "subtitle": "Head spas, beautiful blowdries, color, skin, and wigs in a relaxing boutique — clean, healthy, happy hair starts here.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#6B3A45",
+    "accent": "#C9707F"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowdry" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Hair",
+      "items": [
+        { "name": "Cut & Blowdry", "price": "$85+" },
+        { "name": "Blowdry", "price": "$55+" },
+        { "name": "Color", "price": "$140+" },
+        { "name": "Balayage / Foils", "price": "$220+" }
+      ]
+    },
+    {
+      "category": "Head Spa",
+      "items": [
+        { "name": "Signature Head Spa", "price": "$150+" },
+        { "name": "Mini Head Spa + Blowdry", "price": "$120+" },
+        { "name": "Kids 1 Hour Mini Head Spa + Blowdry", "price": "$100" }
+      ]
+    },
+    {
+      "category": "Face & Body",
+      "items": [
+        { "name": "Signature Facial", "price": "$110+" },
+        { "name": "Brow Shape & Tint", "price": "$40+" },
+        { "name": "Relaxing Body Treatment", "price": "$120+" }
+      ]
+    },
+    {
+      "category": "Wig Boutique",
+      "items": [
+        { "name": "Wig Consultation", "price": "Free" },
+        { "name": "Wig Fitting & Styling", "price": "$80+" },
+        { "name": "Wig Wash & Restyle", "price": "$60+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder",
+      "photo": "/images/blossom-hair/stylist-owner.svg",
+      "bio": "Founder of Blossom, creating a relaxing boutique where hair, face, body, and wig care come together — so every guest, big or small, leaves feeling pampered and confident.",
+      "bookingUrl": "https://booking.example.com/blossom-hair/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Hannah W.",
+      "text": "The head spa was pure bliss. I nearly fell asleep, and my hair has never felt so clean and soft.",
+      "rating": 5
+    },
+    {
+      "name": "Olivia J.",
+      "text": "Took my daughter for the kids' mini head spa and she hasn't stopped talking about it. Such a sweet treat!",
+      "rating": 5
+    },
+    {
+      "name": "Grace T.",
+      "text": "They helped me find the perfect wig and styled it beautifully. So kind, patient, and understanding.",
+      "rating": 5
+    },
+    {
+      "name": "Ella B.",
+      "text": "Gorgeous salon, gorgeous blowdry. Blossom is my little escape every month.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@blossomhair.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 6pm" },
+      { "day": "Saturday", "time": "8:30am – 3pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
