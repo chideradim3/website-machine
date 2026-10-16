@@ -1,0 +1,189 @@
+{
+  "type": "hairsalon",
+  "name": "The Jess Effect",
+  "tagline": "Braids • Beauty • Elevated Experience.",
+  "description": "The Jess Effect is a Tampa / Lutz braiding studio for boho, knotless, and Fulani braids, stitch braids, sleek ponytails, locs, men's and kids' styles — you're not just getting a style, you're getting The Jess Effect.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/the-jess-effect",
+  "fonts": {
+    "heading": "Bodoni Moda",
+    "body": "Montserrat"
+  },
+  "hero": {
+    "title": "You're not just getting a style… you're getting The Jess Effect.",
+    "subtitle": "Boho, knotless, and Fulani braids, sleek ponytails, locs, men's and kids' styles in Tampa / Lutz, FL. Deposits are required to secure all appointments.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#141210",
+    "accent": "#B8894A"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Boho Braids (Soft, Textured, Free-Flowing)",
+      "items": [
+        { "name": "Small Boho Braids", "price": "$450" },
+        { "name": "Medium Boho Braids", "price": "$350" },
+        { "name": "Large Boho Braids", "price": "$250" },
+        { "name": "Jumbo Boho Braids", "price": "$200" }
+      ]
+    },
+    {
+      "category": "Knotless Braids (Lightweight, Tension-Free)",
+      "items": [
+        { "name": "Small Knotless Braids", "price": "$350" },
+        { "name": "Medium Knotless Braids", "price": "$275" },
+        { "name": "Large Knotless Braids", "price": "$200" },
+        { "name": "Jumbo Knotless Braids", "price": "$150" }
+      ]
+    },
+    {
+      "category": "Fulani Braids (Signature Detailed Design)",
+      "items": [
+        { "name": "Small Fulani Braids", "price": "$375" },
+        { "name": "Small Fulani — Boho Finish Upgrade", "price": "$450" },
+        { "name": "Medium Fulani Braids", "price": "$300" },
+        { "name": "Medium Fulani — Boho Finish Upgrade", "price": "$375" },
+        { "name": "Large Fulani Braids", "price": "$230" }
+      ]
+    },
+    {
+      "category": "Feed-In / Stitch Braids",
+      "items": [
+        { "name": "2 Braids", "price": "$80" },
+        { "name": "4 Braids", "price": "$100" },
+        { "name": "6 Braids", "price": "$150" },
+        { "name": "8–10 Braids", "price": "$180" },
+        { "name": "12+ Braids", "price": "$200" }
+      ]
+    },
+    {
+      "category": "Ponytail & Style Collection",
+      "items": [
+        { "name": "Sleek Extended Braided Ponytail", "price": "$60" },
+        { "name": "Sleek Extended Ponytail", "price": "$75" },
+        { "name": "Barbie Ponytail", "price": "$100" },
+        { "name": "Blunt Cut Ponytail", "price": "$85" },
+        { "name": "Pigtails", "price": "$100" },
+        { "name": "Stitched Ponytail (8–10 Braids)", "price": "$200" },
+        { "name": "Stitched Ponytail (12+ Braids)", "price": "$200–$250" }
+      ]
+    },
+    {
+      "category": "Additional Styles & Services",
+      "items": [
+        { "name": "Silk Press", "price": "$100" },
+        { "name": "Top/Low Knot Bun", "price": "$60" },
+        { "name": "Boho Passion Twists", "price": "$300" },
+        { "name": "Invisible Locs", "price": "$180" },
+        { "name": "Quick Weave", "price": "$125" },
+        { "name": "Half Stitch / Half Quick Weave", "price": "$150" },
+        { "name": "Half Up Half Down", "price": "$140" }
+      ]
+    },
+    {
+      "category": "Loc Services",
+      "items": [
+        { "name": "Shoulder Length Locs", "price": "$300" },
+        { "name": "Mid-Back Length Locs", "price": "$350" },
+        { "name": "Butt Length Locs", "price": "$400" },
+        { "name": "Retwist", "price": "From $80" },
+        { "name": "Retwist + Style", "price": "From $100" },
+        { "name": "Starter Locs", "price": "$120" }
+      ]
+    },
+    {
+      "category": "Men's Services",
+      "items": [
+        { "name": "2 Stitch Braids", "price": "$60" },
+        { "name": "4 Stitch Braids", "price": "$80" },
+        { "name": "6 Stitch Braids", "price": "$100" },
+        { "name": "8 Stitch Braids", "price": "$120" },
+        { "name": "10+ Stitch Braids", "price": "$150" }
+      ]
+    },
+    {
+      "category": "Kids Services (Ages 3–6)",
+      "items": [
+        { "name": "Knotless Braids", "price": "$150" },
+        { "name": "Fulani Braids", "price": "$160" },
+        { "name": "Boho Braids", "price": "$200" },
+        { "name": "Boho Fulani Braids", "price": "$180" },
+        { "name": "Stitched Ponytail", "price": "$120" },
+        { "name": "Stitch Braids", "price": "$10 per braid" },
+        { "name": "Retwists", "price": "$40–$60" },
+        { "name": "Retwists with Style", "price": "$80" },
+        { "name": "Sleek Extended Ponytail", "price": "$45" },
+        { "name": "Sleek Braided Ponytail", "price": "$45" },
+        { "name": "Butterfly Locs / Soft Locs", "price": "$200" }
+      ]
+    },
+    {
+      "category": "Kids Services (Ages 7–12)",
+      "items": [
+        { "name": "Knotless Braids", "price": "$220" },
+        { "name": "Fulani Braids", "price": "$220" },
+        { "name": "Boho Braids", "price": "$280" },
+        { "name": "Boho Fulani Braids", "price": "$260" },
+        { "name": "Stitched Ponytail", "price": "$160" },
+        { "name": "Stitch Braids", "price": "$15 per braid" },
+        { "name": "Retwists", "price": "$60–$80" },
+        { "name": "Retwists with Style", "price": "$100" },
+        { "name": "Sleek Extended Ponytail", "price": "$60" },
+        { "name": "Sleek Braided Ponytail", "price": "$60" },
+        { "name": "Butterfly Locs / Soft Locs", "price": "$250" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Jess",
+      "title": "Owner & Lead Braider",
+      "photo": "/images/the-jess-effect/stylist-owner.svg",
+      "bio": "Jess built The Jess Effect around braids, beauty, and an elevated experience. From boho and Fulani braids to sleek ponytails and locs, every style is crafted with care. Deposits are required to secure all appointments. Thank you for supporting The Jess Effect!",
+      "bookingUrl": "https://booking.example.com/the-jess-effect/jess"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Nia C.",
+      "text": "My small boho braids are everything! So full and soft, and they look even better after a week. Jess is a true artist.",
+      "rating": 5
+    },
+    {
+      "name": "Ashanti P.",
+      "text": "Best Fulani braids in Tampa. Neat parts, clean edges, and the whole experience felt so elevated.",
+      "rating": 5
+    },
+    {
+      "name": "Monique T.",
+      "text": "Got my daughter's knotless braids done and she felt like a princess. Gentle, patient, and beautiful work.",
+      "rating": 5
+    },
+    {
+      "name": "Darnell K.",
+      "text": "Clean stitch braids every time. Professional and on schedule. Highly recommend The Jess Effect.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@thejesseffect.com",
+    "address": "Tampa / Lutz, FL",
+    "hours": [
+      { "day": "By appointment", "time": "Deposit required to book" },
+      { "day": "Tue–Sat", "time": "9am – 6pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
