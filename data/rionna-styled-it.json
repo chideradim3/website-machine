@@ -1,0 +1,104 @@
+{
+  "type": "hairsalon",
+  "name": "Rionna Styled It",
+  "tagline": "Licensed Professional Hairstylist.",
+  "description": "Rionna Styled It is a mobile licensed hairstylist serving Brandon, Riverview, Tampa and surrounding areas. Braids, loc retwists, crochet styles, kids' styles, and haircuts — you don't have to go to the salon, Rionna comes to you.",
+  "logo": "",
+  "bookingUrl": "https://www.instagram.com/rionna_styled_it/",
+  "fonts": {
+    "heading": "Montserrat",
+    "body": "Poppins"
+  },
+  "hero": {
+    "title": "You don't have to go to the salon. I'll come to you.",
+    "subtitle": "Braids, locs, crochet, kids' styles, and haircuts in Brandon, Riverview, Tampa and surrounding areas. Limited appointments every Wednesday and Thursday.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "DM to Book"
+  },
+  "colors": {
+    "primary": "#0D0D0D",
+    "accent": "#E8407E"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Braids & Protective Styles",
+      "items": [
+        { "name": "Braids (All Styles)", "price": "DM for price" },
+        { "name": "Crochet Styles", "price": "DM for price" },
+        { "name": "Loc Retwists & Styles", "price": "DM for price" }
+      ]
+    },
+    {
+      "category": "Cuts & Kids",
+      "items": [
+        { "name": "Haircuts (Men, Women & Kids)", "price": "DM for price" },
+        { "name": "Kids' Styles (All Ages)", "price": "DM for price" }
+      ]
+    },
+    {
+      "category": "Prep & Refresh",
+      "items": [
+        { "name": "Braid Downs (Wig / Sew-In Prep)", "price": "DM for price" },
+        { "name": "Braid Takedowns (Removal + Detangle)", "price": "DM for price" },
+        { "name": "Style Revamp (Refresh, Re-Curl, Restyle)", "price": "DM for price" }
+      ]
+    },
+    {
+      "category": "Booking",
+      "items": [
+        { "name": "Booking Deposit (non-refundable, applied to your service)", "price": "$15" },
+        { "name": "Don't see your service? Ask me!", "price": "DM" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Rionna Ford",
+      "title": "Owner & Licensed Professional Hairstylist",
+      "photo": "/images/rionna-styled-it/owner-rionna.jpg",
+      "bio": "Rionna is a licensed professional hairstylist who brings the salon to you. From braids and crochet to loc retwists, kids' styles, and fresh cuts, she serves Brandon, Riverview, Tampa and surrounding areas. A $15 non-refundable deposit (applied to your service) secures your appointment — DM to check availability!",
+      "bookingUrl": "https://www.instagram.com/rionna_styled_it/"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Shanice B.",
+      "text": "Rionna came right to my house and did my knotless braids perfectly. So convenient and so professional!",
+      "rating": 5
+    },
+    {
+      "name": "Tamika R.",
+      "text": "She did my daughter's braids and was so patient with her. Neat, cute, and they lasted for weeks.",
+      "rating": 5
+    },
+    {
+      "name": "Jerome W.",
+      "text": "Fresh cut without leaving the house. On time, clean work, and great energy. Booking again for sure.",
+      "rating": 5
+    },
+    {
+      "name": "Kayla M.",
+      "text": "My loc retwist looks amazing. Rionna really cares about the health of your hair. Highly recommend!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@rionnastyledit.com",
+    "address": "Mobile — serving Brandon, Riverview, Tampa & surrounding areas",
+    "hours": [
+      { "day": "Wednesday", "time": "Limited appointments" },
+      { "day": "Thursday", "time": "Limited appointments" },
+      { "day": "Other days", "time": "DM to ask" }
+    ]
+  }
+}
