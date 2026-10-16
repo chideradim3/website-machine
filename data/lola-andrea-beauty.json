@@ -1,0 +1,101 @@
+{
+  "type": "hairsalon",
+  "name": "Lola Andrea Beauty",
+  "tagline": "Hair, Lashes & Glam.",
+  "description": "Lola Andrea Beauty is a warm, glam beauty studio by Lola Hernandez offering hair color and styling, extensions, lash extensions, and makeup — sun-kissed, effortless beauty that makes you glow.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/lola-andrea-beauty",
+  "fonts": {
+    "heading": "Marcellus",
+    "body": "Jost"
+  },
+  "hero": {
+    "title": "Glow like golden hour.",
+    "subtitle": "Hair, extensions, lashes, and glam makeup by Lola — sun-kissed beauty that feels as good as it looks. Book your appointment today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#5C2A2E",
+    "accent": "#C8745A"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Hair",
+      "items": [
+        { "name": "Cut & Style", "price": "$70+" },
+        { "name": "Blowout & Curls", "price": "$55+" },
+        { "name": "Balayage / Sun-Kissed Color", "price": "$200+" },
+        { "name": "All-Over Color", "price": "$130+" }
+      ]
+    },
+    {
+      "category": "Extensions",
+      "items": [
+        { "name": "Extension Consultation", "price": "Free" },
+        { "name": "Tape-In Extensions", "price": "$300+" },
+        { "name": "Extension Move-Up", "price": "$150+" }
+      ]
+    },
+    {
+      "category": "Lashes & Glam",
+      "items": [
+        { "name": "Classic Lash Full Set", "price": "$120+" },
+        { "name": "Volume Lash Full Set", "price": "$160+" },
+        { "name": "Lash Fill", "price": "$60+" },
+        { "name": "Glam Makeup", "price": "$90+" },
+        { "name": "Bridal Hair & Makeup", "price": "$250+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Lola Hernandez",
+      "title": "Owner & Beauty Artist",
+      "photo": "/images/lola-andrea-beauty/owner-lola.jpg",
+      "bio": "Lola founded Lola Andrea Beauty to help every client feel confident and glowing. From sun-kissed color and soft curls to full lashes and flawless glam, she creates looks that feel effortless and uniquely you.",
+      "bookingUrl": "https://booking.example.com/lola-andrea-beauty/lola"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Valeria G.",
+      "text": "Lola did my hair and makeup for my birthday and I felt like a celebrity. Absolutely flawless!",
+      "rating": 5
+    },
+    {
+      "name": "Jessica R.",
+      "text": "My volume lashes are perfect — full but still so light. I won't go to anyone else now.",
+      "rating": 5
+    },
+    {
+      "name": "Daniela M.",
+      "text": "Best balayage I've ever had. So natural and sun-kissed. Lola is so sweet and talented.",
+      "rating": 5
+    },
+    {
+      "name": "Brianna S.",
+      "text": "She did my bridal hair and makeup and everything lasted all night. Thank you, Lola!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@lolaandreabeauty.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "10am – 7pm" },
+      { "day": "Saturday", "time": "9am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
