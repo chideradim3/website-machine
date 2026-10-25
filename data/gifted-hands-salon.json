@@ -1,0 +1,110 @@
+{
+  "type": "hairsalon",
+  "name": "Gifted Hands Salon",
+  "tagline": "Where Talent Meets Care.",
+  "description": "Gifted Hands Salon is a full-service salon for precision cuts, rich color, silk presses, natural hair, and protective styles — skilled, caring hands and a welcoming chair for every client.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/gifted-hands-salon",
+  "fonts": {
+    "heading": "EB Garamond",
+    "body": "Lato"
+  },
+  "hero": {
+    "title": "Beautiful hair, crafted by gifted hands.",
+    "subtitle": "Cuts, color, silk presses, natural hair, and protective styles from stylists who truly care — book your appointment today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#0F3D33",
+    "accent": "#B8913E"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Women's Cut & Style", "price": "$65+" },
+        { "name": "Men's Cut", "price": "$35+" },
+        { "name": "Kids' Cut", "price": "$25+" },
+        { "name": "Silk Press", "price": "$80+" },
+        { "name": "Blowout", "price": "$50+" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "All-Over Color", "price": "$110+" },
+        { "name": "Highlights / Balayage", "price": "$170+" },
+        { "name": "Root Touch-Up", "price": "$80+" },
+        { "name": "Gloss / Toner", "price": "$50+" }
+      ]
+    },
+    {
+      "category": "Natural Hair & Protective Styles",
+      "items": [
+        { "name": "Knotless Braids", "price": "$170+" },
+        { "name": "Two-Strand Twists", "price": "$90+" },
+        { "name": "Loc Retwist", "price": "$75+" },
+        { "name": "Sew-In", "price": "$150+" }
+      ]
+    },
+    {
+      "category": "Treatments",
+      "items": [
+        { "name": "Deep Conditioning Treatment", "price": "$35+" },
+        { "name": "Bond-Repair Treatment", "price": "$45+" },
+        { "name": "Scalp Treatment", "price": "$40+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Lead Stylist",
+      "photo": "/images/gifted-hands-salon/stylist-owner.svg",
+      "bio": "The founder of Gifted Hands Salon built a space where skill and care go hand in hand. Every client gets honest advice, healthy-hair practices, and a look they're proud of.",
+      "bookingUrl": "https://booking.example.com/gifted-hands-salon/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Crystal B.",
+      "text": "The name says it all — truly gifted hands! My silk press was flawless and lasted two weeks.",
+      "rating": 5
+    },
+    {
+      "name": "Michelle T.",
+      "text": "Best color I've ever had. They listened to exactly what I wanted and my hair still feels healthy.",
+      "rating": 5
+    },
+    {
+      "name": "Derrick J.",
+      "text": "Clean cut, friendly staff, and always on time. My whole family comes here now.",
+      "rating": 5
+    },
+    {
+      "name": "Shayla W.",
+      "text": "My knotless braids were neat, light, and so pretty. Such a warm, welcoming salon.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@giftedhandssalon.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "8am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
