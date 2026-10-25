@@ -1,0 +1,113 @@
+{
+  "type": "hairsalon",
+  "name": "Ashley Grey Salon and Extensions",
+  "tagline": "Luxury Extensions & Effortless Color.",
+  "description": "Ashley Grey Salon and Extensions specialises in seamless hair extensions — hand-tied, tape-in, K-tip, and I-tip — plus lived-in color, precision cuts, and polished styling for length, volume, and confidence.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/ashley-grey-salon",
+  "fonts": {
+    "heading": "Cormorant Garamond",
+    "body": "Jost"
+  },
+  "hero": {
+    "title": "Length, volume, and confidence. Seamlessly.",
+    "subtitle": "Custom hair extensions, lived-in color, and precision cuts in a calm, modern salon — book your extension consultation today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book a Consultation"
+  },
+  "colors": {
+    "primary": "#2B2D31",
+    "accent": "#B08A72"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Extensions",
+      "items": [
+        { "name": "Extension Consultation", "price": "Free" },
+        { "name": "Hand-Tied Weft Extensions", "price": "From $600" },
+        { "name": "Tape-In Extensions", "price": "From $400" },
+        { "name": "K-Tip / Keratin Bond Extensions", "price": "From $700" },
+        { "name": "I-Tip Extensions", "price": "From $550" },
+        { "name": "Extension Move-Up / Maintenance", "price": "From $150" },
+        { "name": "Extension Removal", "price": "From $75" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Balayage", "price": "$220+" },
+        { "name": "Full Highlights", "price": "$190+" },
+        { "name": "All-Over Color", "price": "$130+" },
+        { "name": "Root Touch-Up", "price": "$90+" },
+        { "name": "Gloss / Toner", "price": "$60+" }
+      ]
+    },
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Women's Cut & Style", "price": "$75+" },
+        { "name": "Extension Blend Cut", "price": "$50+" },
+        { "name": "Blowout", "price": "$55" },
+        { "name": "Special Occasion Style", "price": "$110+" }
+      ]
+    },
+    {
+      "category": "Treatments",
+      "items": [
+        { "name": "Bond-Repair Treatment", "price": "$45+" },
+        { "name": "Deep Conditioning Mask", "price": "$35+" },
+        { "name": "Keratin Smoothing", "price": "$250+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Ashley",
+      "title": "Owner & Extension Specialist",
+      "photo": "/images/ashley-grey-salon/stylist-ashley.svg",
+      "bio": "Ashley founded Ashley Grey Salon and Extensions to give every client the length, volume, and confidence they've been dreaming of. She specialises in seamless, natural-looking extensions and soft, lived-in color.",
+      "bookingUrl": "https://booking.example.com/ashley-grey-salon/ashley"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Megan R.",
+      "text": "My hand-tied extensions are completely undetectable. Ashley blended them perfectly and they feel so natural.",
+      "rating": 5
+    },
+    {
+      "name": "Kaitlyn S.",
+      "text": "I've finally got the long, full hair I always wanted. The consultation was so thorough and honest.",
+      "rating": 5
+    },
+    {
+      "name": "Brooke T.",
+      "text": "Gorgeous balayage and the salon is so calm and beautiful. Ashley is a true artist.",
+      "rating": 5
+    },
+    {
+      "name": "Lauren P.",
+      "text": "My move-ups are always quick and comfortable, and my hair stays healthy. Couldn't recommend her more.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@ashleygreysalon.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 4pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
