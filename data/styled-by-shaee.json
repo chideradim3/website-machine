@@ -1,0 +1,102 @@
+{
+  "type": "hairsalon",
+  "name": "Styled by Shaee",
+  "tagline": "Silk Presses, Installs & Glam Waves.",
+  "description": "Styled by Shaee is a glam hair studio for silk presses, blowouts, bouncy curls, sew-ins, and wig installs — sleek, glossy, crown-worthy hair every time.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/styled-by-shaee",
+  "fonts": {
+    "heading": "Yeseva One",
+    "body": "Poppins"
+  },
+  "hero": {
+    "title": "Crown-worthy hair, every time.",
+    "subtitle": "Silk presses, glossy blowouts, bouncy curls, and flawless installs by Shaee — book your glam today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#111111",
+    "accent": "#14A3A0"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Silk Press & Styling",
+      "items": [
+        { "name": "Silk Press", "price": "$85+" },
+        { "name": "Blowout", "price": "$55+" },
+        { "name": "Wand Curls / Glam Waves", "price": "$65+" },
+        { "name": "Trim", "price": "$20+" }
+      ]
+    },
+    {
+      "category": "Installs & Wigs",
+      "items": [
+        { "name": "Traditional Sew-In", "price": "$175+" },
+        { "name": "Frontal Wig Install", "price": "$150+" },
+        { "name": "Closure Wig Install", "price": "$120+" },
+        { "name": "Quick Weave", "price": "$100+" },
+        { "name": "Wig Revamp / Restyle", "price": "$70+" }
+      ]
+    },
+    {
+      "category": "Color & Treatments",
+      "items": [
+        { "name": "All-Over Color", "price": "$100+" },
+        { "name": "Highlights", "price": "$140+" },
+        { "name": "Deep Conditioning Treatment", "price": "$35+" },
+        { "name": "Trim & Treatment Combo", "price": "$50+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Shaee",
+      "title": "Owner & Stylist",
+      "photo": "/images/styled-by-shaee/stylist-shaee.svg",
+      "bio": "Shaee is the stylist behind Styled by Shaee, known for sleek silk presses, glossy blowouts, glam waves, and flawless installs. Every client leaves her chair feeling like royalty.",
+      "bookingUrl": "https://booking.example.com/styled-by-shaee/shaee"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Brittani L.",
+      "text": "My silk press was so bouncy and glossy, and it lasted two weeks. Shaee is the truth!",
+      "rating": 5
+    },
+    {
+      "name": "Kendra J.",
+      "text": "Best frontal install I've ever had — the melt was flawless. Nobody could tell it was a wig.",
+      "rating": 5
+    },
+    {
+      "name": "Aaliyah P.",
+      "text": "She curled my hair for my birthday and I felt like a queen. Gorgeous waves all night.",
+      "rating": 5
+    },
+    {
+      "name": "Danyelle W.",
+      "text": "Professional, on time, and so talented. My hair is healthier since I started seeing Shaee.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@styledbyshaee.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "8am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
