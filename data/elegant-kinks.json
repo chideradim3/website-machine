@@ -1,0 +1,99 @@
+{
+  "type": "hairsalon",
+  "name": "Elegant Kinks",
+  "tagline": "Brandon FL Loctician | Hair Products.",
+  "description": "Elegant Kinks is a Brandon, FL loctician specialising in loc repair, loc extensions, and microlocs, with her own line of hair products, at two locations: 1005 W Busch Blvd Ste 106 and 2064 Badlands Dr Ste 12.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/elegant-kinks",
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Nunito Sans"
+  },
+  "hero": {
+    "title": "Healthy locs, elegantly done.",
+    "subtitle": "Loc repair, loc extensions, and microlocs from a Brandon, FL loctician, with hair products made to keep your locs thriving. Two locations to serve you.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#3B2A26",
+    "accent": "#B57A6E"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Loc Specialties",
+      "items": [
+        { "name": "Loc Repair", "price": "From $50" },
+        { "name": "Loc Extensions", "price": "Consultation" },
+        { "name": "Microlocs (Installation)", "price": "Consultation" },
+        { "name": "Microloc Retightening", "price": "From $150" }
+      ]
+    },
+    {
+      "category": "Loc Maintenance",
+      "items": [
+        { "name": "Starter Locs", "price": "From $120" },
+        { "name": "Loc Retwist", "price": "From $75" },
+        { "name": "Retwist & Style", "price": "From $95" },
+        { "name": "Loc Detox", "price": "From $65" }
+      ]
+    },
+    {
+      "category": "Hair Products",
+      "items": [
+        { "name": "Loc Care Products", "price": "Shop in studio" },
+        { "name": "Product Recommendations", "price": "Ask at your visit" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Loctician",
+      "photo": "/images/elegant-kinks/owner.jpg",
+      "bio": "The loctician behind Elegant Kinks, specialising in loc repair, loc extensions, and microlocs. She also creates hair products to keep your locs healthy between visits. Find her at 1005 W Busch Blvd Ste 106 or 2064 Badlands Dr Ste 12.",
+      "bookingUrl": "https://booking.example.com/elegant-kinks/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Keisha D.",
+      "text": "She repaired locs I thought were too damaged to save. They look full and healthy again. True loc magic!",
+      "rating": 5
+    },
+    {
+      "name": "Amara O.",
+      "text": "My microlocs came out so neat and even. She was patient through the whole install and explained everything.",
+      "rating": 5
+    },
+    {
+      "name": "Tasha W.",
+      "text": "Got loc extensions for length and you can't tell where mine end and the extensions begin. Seamless!",
+      "rating": 5
+    },
+    {
+      "name": "Jordan B.",
+      "text": "Her products keep my scalp and locs moisturized all week. Great retwist, great vibes, great products.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@elegantkinks.com",
+    "address": "1005 W Busch Blvd Ste 106 & 2064 Badlands Dr Ste 12 (Brandon, FL area)",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 6pm" },
+      { "day": "Saturday", "time": "8am – 4pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
