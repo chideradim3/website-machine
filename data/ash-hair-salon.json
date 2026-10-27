@@ -1,0 +1,109 @@
+{
+  "type": "hairsalon",
+  "name": "Ash Hair Salon",
+  "tagline": "Cute Styles. Happy Girls. Confident Everyday!",
+  "description": "Ash Hair Salon specializes in little girls' braids — knotless braids, box braids, beaded styles, cornrows, and more — with a kid-friendly experience, gentle care, and neat, long-lasting styles she'll love.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/ash-hair-salon",
+  "fonts": {
+    "heading": "Fredoka",
+    "body": "Nunito"
+  },
+  "hero": {
+    "title": "Beautiful braids, made with love.",
+    "subtitle": "Knotless braids, box braids, beaded styles, and cornrows for little girls — gentle care, neat and long-lasting styles, and a fun, kid-friendly experience. Book today!",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Today!"
+  },
+  "colors": {
+    "primary": "#3D1F6B",
+    "accent": "#E8458B"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Little Girls' Braids",
+      "items": [
+        { "name": "Knotless Braids", "price": "$120+" },
+        { "name": "Box Braids", "price": "$110+" },
+        { "name": "Cornrows", "price": "$50+" },
+        { "name": "Stitch / Feed-In Braids", "price": "$60+" }
+      ]
+    },
+    {
+      "category": "Beaded & Fun Styles",
+      "items": [
+        { "name": "Beaded Braids", "price": "$90+" },
+        { "name": "Braided Puffs / Ponytails", "price": "$45+" },
+        { "name": "Bead Add-On", "price": "$10+" },
+        { "name": "Clips & Bows Add-On", "price": "$5+" }
+      ]
+    },
+    {
+      "category": "And More",
+      "items": [
+        { "name": "Wash & Detangle", "price": "$25+" },
+        { "name": "Natural Style (Twists / Puffs)", "price": "$40+" },
+        { "name": "Braid Takedown", "price": "$25+" }
+      ]
+    },
+    {
+      "category": "Why Moms Love Us",
+      "items": [
+        { "name": "Kid-Friendly Experience", "price": "♥" },
+        { "name": "Gentle Care", "price": "♥" },
+        { "name": "Neat & Long-Lasting", "price": "♥" },
+        { "name": "Styles She'll Love", "price": "♥" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Kids' Braider",
+      "photo": "/images/ash-hair-salon/owner.jpg",
+      "bio": "The founder of Ash Hair Salon creates beautiful braids made with love for little girls — gentle, patient, and kid-friendly, because every little girl deserves to feel confident. Follow her work on TikTok @gorgeousasha.",
+      "bookingUrl": "https://booking.example.com/ash-hair-salon/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Tiffany M.",
+      "text": "My daughter usually cries getting her hair done, but not here! So gentle and patient, and the beaded braids are adorable.",
+      "rating": 5
+    },
+    {
+      "name": "Keyana R.",
+      "text": "Her knotless braids lasted almost a month and still looked neat. My little girl felt like a princess.",
+      "rating": 5
+    },
+    {
+      "name": "Shante B.",
+      "text": "Cutest cornrows with puffs for picture day! Everyone asked who did her hair.",
+      "rating": 5
+    },
+    {
+      "name": "Danielle P.",
+      "text": "Such a warm, kid-friendly experience. My daughter can't wait for her next appointment.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@ashhairsalon.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "3pm – 7pm" },
+      { "day": "Saturday", "time": "8am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
