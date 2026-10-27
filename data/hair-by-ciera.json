@@ -1,0 +1,102 @@
+{
+  "type": "hairsalon",
+  "name": "Hair by Ciera",
+  "tagline": "Dimensional Color & Effortless Curls.",
+  "description": "Hair by Ciera is a color-loving stylist specialising in rich reds, burgundies, and dimensional color, plus bouncy curls, cuts, and healthy-hair treatments that make your color shine.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/hair-by-ciera",
+  "fonts": {
+    "heading": "Gloock",
+    "body": "Manrope"
+  },
+  "hero": {
+    "title": "Color that turns heads.",
+    "subtitle": "Rich reds, deep burgundies, dimensional highlights, and soft bouncy curls by Ciera — book your color appointment today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#4A1526",
+    "accent": "#B8916A"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Red / Burgundy Color", "price": "$130+" },
+        { "name": "Dimensional Highlights", "price": "$170+" },
+        { "name": "Balayage", "price": "$200+" },
+        { "name": "All-Over Color", "price": "$110+" },
+        { "name": "Root Touch-Up", "price": "$80+" },
+        { "name": "Gloss / Color Refresh", "price": "$55+" }
+      ]
+    },
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Cut & Style", "price": "$65+" },
+        { "name": "Blowout & Bouncy Curls", "price": "$55+" },
+        { "name": "Silk Press", "price": "$80+" },
+        { "name": "Special Occasion Style", "price": "$90+" }
+      ]
+    },
+    {
+      "category": "Treatments",
+      "items": [
+        { "name": "Color-Protect Gloss Treatment", "price": "$40+" },
+        { "name": "Bond-Repair Treatment", "price": "$45+" },
+        { "name": "Deep Conditioning", "price": "$35+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Ciera",
+      "title": "Owner & Color Specialist",
+      "photo": "/images/hair-by-ciera/owner-ciera.jpg",
+      "bio": "Ciera lives for color — especially rich reds, burgundies, and dimensional tones that catch the light. She pairs bold color with healthy-hair care and soft, bouncy styling so every client leaves feeling confident and beautiful.",
+      "bookingUrl": "https://booking.example.com/hair-by-ciera/ciera"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Vanessa L.",
+      "text": "Ciera gave me the burgundy of my dreams! It's so rich and shiny, and it's held up beautifully.",
+      "rating": 5
+    },
+    {
+      "name": "Priscilla G.",
+      "text": "My highlights have so much dimension now. She really knows color and explains everything.",
+      "rating": 5
+    },
+    {
+      "name": "Dominique R.",
+      "text": "Best blowout and curls ever. I felt like a whole new woman walking out.",
+      "rating": 5
+    },
+    {
+      "name": "Erica S.",
+      "text": "So sweet, professional, and talented. My hair feels healthier than before my color!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@hairbyciera.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "10am – 7pm" },
+      { "day": "Saturday", "time": "9am – 4pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
