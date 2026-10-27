@@ -1,0 +1,105 @@
+{
+  "type": "hairsalon",
+  "name": "Kelsey",
+  "tagline": "HTX Hairstylist • Northside Houston.",
+  "description": "Kelsey is a home-based HTX hairstylist on the Northside of Houston, TX, serving quick weaves, sew-ins, wig installs, and sleek bobs. Limited appointments available — payment in full is required upon booking.",
+  "logo": "",
+  "bookingUrl": "tel:+13469042758",
+  "fonts": {
+    "heading": "Anton",
+    "body": "Poppins"
+  },
+  "hero": {
+    "title": "Sleek hair, Northside Houston.",
+    "subtitle": "Quick weaves, sew-ins, wig installs, and sharp bobs from a home-based HTX stylist. Wednesday Special: Quick Weave (leave out only) just $55. Limited appointments — book today!",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Call to Book"
+  },
+  "colors": {
+    "primary": "#120A10",
+    "accent": "#F0509A"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Wednesday Special",
+      "items": [
+        { "name": "Quick Weave (Leave Out Only) — Every Wednesday", "price": "$55" }
+      ]
+    },
+    {
+      "category": "Weaves & Installs",
+      "items": [
+        { "name": "Quick Weave (Leave Out)", "price": "$75+" },
+        { "name": "Sleek Bob Quick Weave", "price": "$85+" },
+        { "name": "Traditional Sew-In", "price": "$150+" },
+        { "name": "Frontal Wig Install", "price": "$140+" },
+        { "name": "Closure Wig Install", "price": "$110+" }
+      ]
+    },
+    {
+      "category": "Styling",
+      "items": [
+        { "name": "Silk Press", "price": "$75+" },
+        { "name": "Wig Restyle", "price": "$60+" },
+        { "name": "Curls / Updo", "price": "$55+" }
+      ]
+    },
+    {
+      "category": "Booking Policy",
+      "items": [
+        { "name": "Payment in full upon booking", "price": "Required" },
+        { "name": "Limited appointments available", "price": "Book early" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Kelsey",
+      "title": "Owner & HTX Hairstylist",
+      "photo": "/images/kelsey/owner-kelsey.jpg",
+      "bio": "Kelsey is a home-based hairstylist on the Northside of Houston, known for sleek quick weaves, sharp bobs, and flawless installs. Call 346-904-2758 or 713-962-9667 to book. Limited appointments — payment must be paid in full upon booking.",
+      "bookingUrl": "tel:+13469042758"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Destiny M.",
+      "text": "Got the Wednesday special and my bob was SO sleek. Best $55 I ever spent!",
+      "rating": 5
+    },
+    {
+      "name": "Taylor J.",
+      "text": "Kelsey's quick weaves always blend perfectly with my leave out. Fast, neat, and affordable.",
+      "rating": 5
+    },
+    {
+      "name": "Brianna W.",
+      "text": "My frontal install was flawless. Easy booking and a chill, comfortable vibe at her place.",
+      "rating": 5
+    },
+    {
+      "name": "Jada R.",
+      "text": "Northside's best stylist, hands down. My hair is always laid when I leave.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(346) 904-2758",
+    "email": "hello@kelseyhtxhair.com",
+    "address": "Home-based studio, Northside Houston, TX (address shared after booking)",
+    "hours": [
+      { "day": "Wednesday", "time": "Quick Weave Special — $55" },
+      { "day": "Other days", "time": "Limited appointments — call to book" },
+      { "day": "Second line", "time": "(713) 962-9667" }
+    ]
+  }
+}
