@@ -1,0 +1,110 @@
+{
+  "type": "hairsalon",
+  "name": "Lox Hair Studio",
+  "tagline": "Long, Glossy, Gorgeous Lox.",
+  "description": "Lox Hair Studio is a boutique hair studio for rich brunettes, soft balayage, hair extensions, and sleek, glossy blow-dries — healthy lengths and effortless glamour.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/lox-hair-studio",
+  "fonts": {
+    "heading": "Bellefair",
+    "body": "Jost"
+  },
+  "hero": {
+    "title": "Your lox, only better.",
+    "subtitle": "Glossy brunettes, soft balayage, seamless extensions, and sleek blow-dries in a calm, boutique studio — book your appointment today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#3D2B24",
+    "accent": "#7E9C88"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blow-Dry" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Colour" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Colour",
+      "items": [
+        { "name": "Glossy Brunette Colour", "price": "$130+" },
+        { "name": "Balayage", "price": "$210+" },
+        { "name": "Babylights / Face-Framing", "price": "$150+" },
+        { "name": "Root Touch-Up", "price": "$85+" },
+        { "name": "Gloss / Toner", "price": "$55+" }
+      ]
+    },
+    {
+      "category": "Extensions",
+      "items": [
+        { "name": "Extension Consultation", "price": "Free" },
+        { "name": "Tape-In Extensions", "price": "From $350" },
+        { "name": "Weft Extensions", "price": "From $500" },
+        { "name": "Extension Maintenance", "price": "From $120" }
+      ]
+    },
+    {
+      "category": "Cut & Blow-Dry",
+      "items": [
+        { "name": "Cut & Blow-Dry", "price": "$75+" },
+        { "name": "Long Layers / Face-Framing Cut", "price": "$80+" },
+        { "name": "Sleek or Bouncy Blow-Dry", "price": "$50+" },
+        { "name": "Event Styling", "price": "$95+" }
+      ]
+    },
+    {
+      "category": "Treatments",
+      "items": [
+        { "name": "Gloss & Shine Treatment", "price": "$45+" },
+        { "name": "Bond-Repair Treatment", "price": "$45+" },
+        { "name": "Keratin Smoothing", "price": "$220+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Lead Stylist",
+      "photo": "/images/lox-hair-studio/owner.jpg",
+      "bio": "The founder of Lox Hair Studio is all about healthy, glossy lengths — rich brunettes, soft balayage, seamless extensions, and the perfect blow-dry. Every client leaves with hair that turns heads.",
+      "bookingUrl": "https://booking.example.com/lox-hair-studio/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sophie H.",
+      "text": "My brunette has never looked so rich and glossy. Honestly the best colour I've ever had.",
+      "rating": 5
+    },
+    {
+      "name": "Chloe A.",
+      "text": "My tape-ins blend perfectly — nobody believes they're extensions. So natural and comfortable.",
+      "rating": 5
+    },
+    {
+      "name": "Megan F.",
+      "text": "Gorgeous soft balayage and a blow-dry that lasted for days. The studio is so calm and lovely.",
+      "rating": 5
+    },
+    {
+      "name": "Holly R.",
+      "text": "She really listens and gives honest advice. My hair is healthier and longer than ever.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@loxhairstudio.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 4pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
