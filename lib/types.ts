@@ -104,7 +104,7 @@ export interface HairSalonData {
     title: string;
     subtitle: string;
     heroImage: string;
-    heroVideo: string;
+    heroVideo?: string; // optional: omit to show heroImage as a still background
     ctaText: string;
   };
   colors: {

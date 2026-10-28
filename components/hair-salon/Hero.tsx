@@ -6,15 +6,24 @@ export default function Hero({ data }: { data: HairSalonData }) {
       id="top"
       className="relative flex min-h-[100svh] items-end overflow-hidden bg-[#1A1A1A]"
     >
-      <video
-        className="absolute inset-0 h-full w-full object-cover"
-        src={data.hero.heroVideo}
-        poster={data.hero.heroImage}
-        autoPlay
-        loop
-        muted
-        playsInline
-      />
+      {data.hero.heroVideo ? (
+        <video
+          className="absolute inset-0 h-full w-full object-cover"
+          src={data.hero.heroVideo}
+          poster={data.hero.heroImage}
+          autoPlay
+          loop
+          muted
+          playsInline
+        />
+      ) : (
+        /* eslint-disable-next-line @next/next/no-img-element */
+        <img
+          className="absolute inset-0 h-full w-full object-cover"
+          src={data.hero.heroImage}
+          alt=""
+        />
+      )}
       <div className="absolute inset-0 bg-black/50" />
       <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/35 to-black/10" />
       <div className="absolute inset-0 bg-gradient-to-r from-black/40 via-transparent to-transparent" />

@@ -156,6 +156,7 @@ Add `data/sample-hvac.json` with `"type": "hvac"`, fill every field, run it, and
    - Owner photo → `public/images/<slug>/owner.jpg`, cropped square (it shows in a circle).
    - No photo → copy a placeholder SVG (e.g. `public/images/underground/stylist-owner.svg`) and change its two colors.
    - Gallery/hero → use the shared photos unless the client sends good, sharp ones.
+   - Client's own work photos (e.g. braids, where the shared hair photos don't fit) → save them in `public/images/<slug>/` with a `.webp` copy each, point `gallery` at them, set `hero.heroImage` to one of them and **leave out `hero.heroVideo`** so the hero shows the still image instead of the shared video. See `data/braided-by-nai.json`.
 6. **Preview**: restart the dev server (see gotchas), open `http://localhost:3000/<slug>`.
 7. **Commit and push**: `git add data/<slug>.json public/images/<slug>` → commit → `git push origin master`.
 

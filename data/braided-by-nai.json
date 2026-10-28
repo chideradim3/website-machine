@@ -1,0 +1,99 @@
+{
+  "type": "hairsalon",
+  "name": "Braided by Nai",
+  "tagline": "Braids, Cornrow Designs & Twists.",
+  "description": "Braided by Nai is a braider known for crisp parts and creative designs — zig-zag stitch braids, men's cornrow designs, knotless braids, and twists for men, women, and kids.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/braided-by-nai",
+  "fonts": {
+    "heading": "Outfit",
+    "body": "Inter"
+  },
+  "hero": {
+    "title": "Clean parts. Creative braids.",
+    "subtitle": "Zig-zag stitch braids, cornrow designs, knotless braids, and twists for men, women, and kids — book your braids with Nai today.",
+    "heroImage": "/images/braided-by-nai/cornrow-design.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#24201D",
+    "accent": "#C98B4E"
+  },
+  "gallery": [
+    { "image": "/images/braided-by-nai/zigzag-stitch-braids.jpg", "label": "Zig-Zag Stitch Braids" },
+    { "image": "/images/braided-by-nai/zigzag-cornrows.jpg", "label": "Zig-Zag Cornrows" },
+    { "image": "/images/braided-by-nai/knotless-braids.jpg", "label": "Knotless Braids" },
+    { "image": "/images/braided-by-nai/cornrow-design.jpg", "label": "Cornrow Design" },
+    { "image": "/images/braided-by-nai/twists.jpg", "label": "Twists" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Men's Braids",
+      "items": [
+        { "name": "Stitch Braids (4–6)", "price": "$60+" },
+        { "name": "Zig-Zag / Design Parts", "price": "+$15" },
+        { "name": "Cornrow Designs", "price": "$70+" },
+        { "name": "Two-Strand Twists", "price": "$60+" }
+      ]
+    },
+    {
+      "category": "Women's Braids",
+      "items": [
+        { "name": "Knotless Braids (Medium)", "price": "$200+" },
+        { "name": "Knotless Braids (Small)", "price": "$260+" },
+        { "name": "Box Braids", "price": "$180+" },
+        { "name": "Stitch Braids / Feed-Ins", "price": "$90+" }
+      ]
+    },
+    {
+      "category": "Kids & Extras",
+      "items": [
+        { "name": "Kids' Braids", "price": "$70+" },
+        { "name": "Kids' Cornrows", "price": "$45+" },
+        { "name": "Starter Locs / Coils", "price": "$90+" },
+        { "name": "Braid Takedown", "price": "$30+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Nai",
+      "title": "Owner & Braider",
+      "photo": "/images/braided-by-nai/owner-nai.jpg",
+      "bio": "Nai is the braider behind Braided by Nai, known for clean, crisp parts and creative zig-zag designs. From men's stitch braids and cornrow designs to knotless braids and twists, every style is neat, detailed, and made to last.",
+      "bookingUrl": "https://booking.example.com/braided-by-nai/nai"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Marcus J.",
+      "text": "Nai's zig-zag stitch braids are crazy clean. Parts were perfect and they lasted weeks.",
+      "rating": 5
+    },
+    {
+      "name": "Tiana R.",
+      "text": "My knotless braids came out so neat and light. Best braider I've been to, hands down.",
+      "rating": 5
+    },
+    {
+      "name": "Devon K.",
+      "text": "Got a cornrow design for my birthday and everybody asked who did it. Fast and professional.",
+      "rating": 5
+    },
+    {
+      "name": "Aisha B.",
+      "text": "She braided my son's hair and was so patient with him. He loved his zig-zags!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@braidedbynai.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "10am – 7pm" },
+      { "day": "Saturday", "time": "8am – 6pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
