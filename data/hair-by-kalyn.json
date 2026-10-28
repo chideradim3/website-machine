@@ -1,0 +1,102 @@
+{
+  "type": "hairsalon",
+  "name": "Hair by Kalyn",
+  "tagline": "Sun-Kissed Blondes & Beachy Waves.",
+  "description": "Hair by Kalyn is a blonde-loving stylist specialising in sun-kissed highlights, lived-in balayage, soft beachy waves, and healthy, glowing hair that looks effortless every day.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/hair-by-kalyn",
+  "fonts": {
+    "heading": "Libre Baskerville",
+    "body": "Jost"
+  },
+  "hero": {
+    "title": "Blonde, sun-kissed, effortless.",
+    "subtitle": "Bright blondes, lived-in balayage, and soft beachy waves by Kalyn — hair that feels like a permanent vacation. Book today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#1E3A4C",
+    "accent": "#C79A62"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Blonding",
+      "items": [
+        { "name": "Full Highlights", "price": "$190+" },
+        { "name": "Partial Highlights", "price": "$140+" },
+        { "name": "Sun-Kissed Balayage", "price": "$200+" },
+        { "name": "Blonde Refresh / Toner", "price": "$60+" },
+        { "name": "Root Touch-Up", "price": "$85+" }
+      ]
+    },
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Cut & Style", "price": "$65+" },
+        { "name": "Long Layers / Face-Framing", "price": "$70+" },
+        { "name": "Beachy Waves", "price": "$55+" },
+        { "name": "Blowout", "price": "$45+" },
+        { "name": "Event / Prom Styling", "price": "$85+" }
+      ]
+    },
+    {
+      "category": "Treatments",
+      "items": [
+        { "name": "Bond-Repair Treatment", "price": "$40+" },
+        { "name": "Purple Toning Gloss", "price": "$35+" },
+        { "name": "Deep Conditioning Mask", "price": "$30+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Kalyn",
+      "title": "Owner & Blonde Specialist",
+      "photo": "/images/hair-by-kalyn/owner-kalyn.jpg",
+      "bio": "Kalyn loves creating bright, sun-kissed blondes and soft beachy waves that look effortless every day. She focuses on healthy hair, lived-in color that grows out beautifully, and making every client feel like they just got back from vacation.",
+      "bookingUrl": "https://booking.example.com/hair-by-kalyn/kalyn"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Madison T.",
+      "text": "Kalyn gave me the perfect sun-kissed blonde. So bright but still natural, and my hair feels healthy!",
+      "rating": 5
+    },
+    {
+      "name": "Ava L.",
+      "text": "She did my prom hair and the waves held all night. I got so many compliments!",
+      "rating": 5
+    },
+    {
+      "name": "Sydney R.",
+      "text": "My balayage grew out so beautifully. Kalyn is sweet, talented, and really listens.",
+      "rating": 5
+    },
+    {
+      "name": "Lily M.",
+      "text": "Best highlights I've ever had. I always leave feeling like I just got back from the beach.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@hairbykalyn.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "10am – 7pm" },
+      { "day": "Saturday", "time": "9am – 4pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
