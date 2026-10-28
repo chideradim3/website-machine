@@ -1,0 +1,103 @@
+{
+  "type": "hairsalon",
+  "name": "Hair By Milly",
+  "tagline": "Precision Cuts & Lived-In Color.",
+  "description": "Hair By Milly is a cut-and-color stylist known for precision haircuts, soft face-framing layers, lived-in brunettes and blondes, and bouncy blowouts — modern hair that grows out beautifully.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/hair-by-milly",
+  "fonts": {
+    "heading": "DM Serif Display",
+    "body": "Jost"
+  },
+  "hero": {
+    "title": "Cuts that make you feel brand new.",
+    "subtitle": "Precision cuts, soft layers, lived-in color, and bouncy blowouts by Milly — book your appointment today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#2E2C30",
+    "accent": "#E0218A"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts",
+      "items": [
+        { "name": "Precision Cut & Style", "price": "$70+" },
+        { "name": "Long Layers / Face-Framing", "price": "$75+" },
+        { "name": "Bob / Lob Cut", "price": "$70+" },
+        { "name": "Bang Trim", "price": "$15" },
+        { "name": "Men's Cut", "price": "$40+" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Lived-In Balayage", "price": "$210+" },
+        { "name": "Dimensional Brunette", "price": "$150+" },
+        { "name": "Partial Highlights", "price": "$140+" },
+        { "name": "Root Touch-Up", "price": "$85+" },
+        { "name": "Gloss / Toner", "price": "$55+" }
+      ]
+    },
+    {
+      "category": "Styling & Treatments",
+      "items": [
+        { "name": "Bouncy Blowout", "price": "$50+" },
+        { "name": "Soft Waves", "price": "$55+" },
+        { "name": "Event Styling", "price": "$90+" },
+        { "name": "Bond-Repair Treatment", "price": "$40+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Milly",
+      "title": "Owner & Stylist",
+      "photo": "/images/hair-by-milly/owner-milly.jpg",
+      "bio": "Milly is a cut-obsessed stylist who loves creating precision cuts, soft layers, and lived-in color that grows out beautifully. Every appointment starts with a real conversation about your hair, your routine, and the look you love.",
+      "bookingUrl": "https://booking.example.com/hair-by-milly/milly"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Emily K.",
+      "text": "Best haircut I've ever had. Milly's layers are perfect and my hair finally has shape and movement.",
+      "rating": 5
+    },
+    {
+      "name": "Hannah S.",
+      "text": "My balayage grows out so softly — no harsh lines at all. She really knows what she's doing.",
+      "rating": 5
+    },
+    {
+      "name": "Olivia R.",
+      "text": "Milly listened to exactly what I wanted and gave me the cutest bob. So sweet and so talented!",
+      "rating": 5
+    },
+    {
+      "name": "Grace W.",
+      "text": "Her blowouts are amazing. I leave feeling like a brand new person every single time.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@hairbymilly.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 3pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
