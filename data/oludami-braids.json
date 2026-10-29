@@ -1,0 +1,107 @@
+{
+  "type": "hairsalon",
+  "name": "OLUDAMI Braids",
+  "tagline": "Beauty. Confidence. Excellence.",
+  "description": "OLUDAMI Braids is a braiding salon in Munster, Indiana specialising in knotless braids, box braids, boho braids, and cornrow designs — good hair, good mood, every time.",
+  "logo": "",
+  "bookingUrl": "tel:+12192766077",
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Montserrat"
+  },
+  "hero": {
+    "title": "Good hair. Good mood.",
+    "subtitle": "Knotless, box, and boho braids plus cornrow designs at our professional salon in Munster, Indiana. Call 219-276-6077 to book your appointment.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Call to Book"
+  },
+  "colors": {
+    "primary": "#1A1612",
+    "accent": "#A8803F"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Knotless & Box Braids",
+      "items": [
+        { "name": "Small Knotless Braids", "price": "$280+" },
+        { "name": "Medium Knotless Braids", "price": "$220+" },
+        { "name": "Large Knotless Braids", "price": "$180+" },
+        { "name": "Box Braids", "price": "$180+" }
+      ]
+    },
+    {
+      "category": "Boho Braids",
+      "items": [
+        { "name": "Small Boho Knotless", "price": "$320+" },
+        { "name": "Medium Boho Knotless", "price": "$260+" },
+        { "name": "Boho Fulani Braids", "price": "$250+" }
+      ]
+    },
+    {
+      "category": "Cornrows & Designs",
+      "items": [
+        { "name": "Stitch Braids (Feed-In)", "price": "$90+" },
+        { "name": "Spiral / Swirl Cornrow Design", "price": "$120+" },
+        { "name": "Cornrows with Knotless (Fulani Style)", "price": "$220+" },
+        { "name": "Kids' Cornrows", "price": "$60+" }
+      ]
+    },
+    {
+      "category": "Join Our Team",
+      "items": [
+        { "name": "Now hiring braiders — 60/40 commission", "price": "Apply" },
+        { "name": "DM \"BRAIDER\" on Instagram or text (219) 359-7990", "price": "" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Lead Braider",
+      "photo": "/images/oludami-braids/owner.jpg",
+      "bio": "The founder of OLUDAMI Braids built a professional braiding salon in Munster, Indiana around beauty, confidence, and excellence. From knotless and boho braids to detailed cornrow designs, every style is neat, polished, and made to turn heads.",
+      "bookingUrl": "tel:+12192766077"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Jasmine W.",
+      "text": "My boho knotless braids are gorgeous! Neat parts, light on my scalp, and they lasted over a month.",
+      "rating": 5
+    },
+    {
+      "name": "Kiara T.",
+      "text": "The swirl cornrow design was a work of art. Everyone kept asking where I got my hair done.",
+      "rating": 5
+    },
+    {
+      "name": "Brianna H.",
+      "text": "Professional salon, on time, and super clean. Best braids I've had in Northwest Indiana.",
+      "rating": 5
+    },
+    {
+      "name": "Nicole A.",
+      "text": "Got my daughter's cornrows done and she loved them. Gentle, patient, and so talented.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(219) 276-6077",
+    "email": "hello@oludamibraids.com",
+    "address": "419 Ridge Rd, Second Floor, Suite B, Munster, IN 46321",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "8am – 6pm" },
+      { "day": "Sun–Mon", "time": "By appointment" }
+    ]
+  }
+}
