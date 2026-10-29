@@ -1,0 +1,102 @@
+{
+  "type": "hairsalon",
+  "name": "The Salon on the Grand",
+  "tagline": "Fergus, Ontario Hair Salon.",
+  "description": "The Salon on the Grand is a welcoming hair salon in Fergus, Ontario offering cuts, colour, balayage, blowouts, and treatments — beautiful, healthy hair by the Grand River.",
+  "logo": "",
+  "bookingUrl": "tel:+15197870500",
+  "fonts": {
+    "heading": "Josefin Sans",
+    "body": "Nunito Sans"
+  },
+  "hero": {
+    "title": "Beautiful hair, right on the Grand.",
+    "subtitle": "Cuts, colour, balayage, and blowouts in a warm, welcoming salon in Fergus, Ontario. Call 519-787-0500 to book your appointment.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Call to Book"
+  },
+  "colors": {
+    "primary": "#5E463C",
+    "accent": "#C48C91"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Colour" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Women's Cut & Style", "price": "$65+" },
+        { "name": "Men's Cut", "price": "$35+" },
+        { "name": "Children's Cut", "price": "$25+" },
+        { "name": "Blowout", "price": "$45+" },
+        { "name": "Updo / Special Occasion", "price": "$85+" }
+      ]
+    },
+    {
+      "category": "Colour",
+      "items": [
+        { "name": "All-Over Colour", "price": "$110+" },
+        { "name": "Balayage", "price": "$190+" },
+        { "name": "Full Foils", "price": "$170+" },
+        { "name": "Root Touch-Up", "price": "$80+" },
+        { "name": "Toner / Gloss", "price": "$45+" }
+      ]
+    },
+    {
+      "category": "Treatments",
+      "items": [
+        { "name": "Bond-Repair Treatment", "price": "$40+" },
+        { "name": "Deep Conditioning", "price": "$30+" },
+        { "name": "Keratin Smoothing", "price": "$220+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Owner & Stylist",
+      "photo": "/images/the-salon-on-the-grand/owner.jpg",
+      "bio": "The owner of The Salon on the Grand created a warm, welcoming space in Fergus where every client feels at home. From fresh cuts to soft, lived-in colour, every appointment is about healthy hair and leaving with a smile. Call 519-787-0500 to book.",
+      "bookingUrl": "tel:+15197870500"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sarah M.",
+      "text": "Love this salon! My balayage turned out beautifully and the whole experience was so relaxing.",
+      "rating": 5
+    },
+    {
+      "name": "Jenna K.",
+      "text": "Best haircut I've had in Fergus. Friendly, professional, and they really listen.",
+      "rating": 5
+    },
+    {
+      "name": "Rachel D.",
+      "text": "Such a cozy, welcoming salon. My colour is perfect and my hair feels so healthy.",
+      "rating": 5
+    },
+    {
+      "name": "Brittany L.",
+      "text": "They did my wedding hair and it held up all night. Couldn't recommend them more!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(519) 787-0500",
+    "email": "hello@thesalononthegrand.ca",
+    "address": "Fergus, Ontario",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 3pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
