@@ -1,0 +1,102 @@
+{
+  "type": "hairsalon",
+  "name": "Hair By Neri",
+  "tagline": "Glossy Color & Polished Style.",
+  "description": "Hair By Neri is a stylist known for rich, glossy color, smoothing treatments, polished blowouts, and soft, face-framing cuts — healthy, shiny hair that looks expensive.",
+  "logo": "",
+  "bookingUrl": "tel:+16615866225",
+  "fonts": {
+    "heading": "Cormorant Garamond",
+    "body": "Manrope"
+  },
+  "hero": {
+    "title": "Shine like you mean it.",
+    "subtitle": "Glossy color, smoothing treatments, polished blowouts, and soft cuts by Neri. Call (661) 586-6225 to book your appointment.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Call to Book"
+  },
+  "colors": {
+    "primary": "#1C1A1F",
+    "accent": "#A85C6E"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Glossy All-Over Color", "price": "$120+" },
+        { "name": "Dimensional Brunette", "price": "$160+" },
+        { "name": "Balayage", "price": "$200+" },
+        { "name": "Root Touch-Up", "price": "$85+" },
+        { "name": "Gloss / Toner", "price": "$55+" }
+      ]
+    },
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Cut & Style", "price": "$65+" },
+        { "name": "Face-Framing Layers", "price": "$70+" },
+        { "name": "Polished Blowout", "price": "$50+" },
+        { "name": "Event Styling", "price": "$90+" }
+      ]
+    },
+    {
+      "category": "Smoothing & Extensions",
+      "items": [
+        { "name": "Keratin Smoothing Treatment", "price": "$250+" },
+        { "name": "Express Smoothing", "price": "$150+" },
+        { "name": "Extension Consultation", "price": "Free" },
+        { "name": "Tape-In Extensions", "price": "From $350" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Neri",
+      "title": "Owner & Stylist",
+      "photo": "/images/hair-by-neri/owner-neri.jpg",
+      "bio": "Neri loves creating rich, glossy color and sleek, polished styles that look effortless. She focuses on healthy, shiny hair and takes the time to understand exactly what each client wants. Call (661) 586-6225 to book.",
+      "bookingUrl": "tel:+16615866225"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Andrea M.",
+      "text": "Neri's color is so rich and shiny — my hair has never looked this healthy. She's the best!",
+      "rating": 5
+    },
+    {
+      "name": "Jessica P.",
+      "text": "My keratin treatment changed my life. Smooth, frizz-free hair for months. Highly recommend Neri.",
+      "rating": 5
+    },
+    {
+      "name": "Marisol G.",
+      "text": "Perfect face-framing layers and a gorgeous blowout. She really listens to what you want.",
+      "rating": 5
+    },
+    {
+      "name": "Karen L.",
+      "text": "Professional, sweet, and so talented. I always leave feeling polished and beautiful.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(661) 586-6225",
+    "email": "hello@hairbyneri.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 4pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
