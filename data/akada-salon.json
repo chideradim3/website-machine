@@ -2,7 +2,7 @@
   "type": "hairsalon",
   "name": "Akada Salon",
   "tagline": "Since 1997.",
-  "description": "Akada Salon has been creating modern, beautiful hair since 1997 — precision cuts, lived-in colour and balayage, and polished styling from an experienced team led by salon manager Cara.",
+  "description": "Akada Salon has been creating modern, beautiful hair since 1997 — precision cuts, lived-in color and balayage, and polished styling from an experienced team led by salon manager Cara.",
   "logo": "",
   "bookingUrl": "https://booking.example.com/akada-salon",
   "fonts": {
@@ -11,7 +11,7 @@
   },
   "hero": {
     "title": "Modern hair. Since 1997.",
-    "subtitle": "Precision cuts, lived-in colour, balayage, and effortless styling from a salon with over 25 years of experience. Book your appointment today.",
+    "subtitle": "Precision cuts, lived-in color, balayage, and effortless styling from a salon with over 25 years of experience. Book your appointment today.",
     "heroVideo": "/images/shared/hair-video.mp4",
     "heroImage": "/images/shared/hair-image.jpg",
     "ctaText": "Book Now"
@@ -26,7 +26,7 @@
     { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
     { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
     { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
-    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Colour" }
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
   ],
   "serviceCategories": [
     {
@@ -39,11 +39,11 @@
       ]
     },
     {
-      "category": "Colour",
+      "category": "Color",
       "items": [
         { "name": "Balayage / Bronde", "price": "$210+" },
         { "name": "Full Highlights", "price": "$180+" },
-        { "name": "All-Over Colour", "price": "$120+" },
+        { "name": "All-Over Color", "price": "$120+" },
         { "name": "Root Touch-Up", "price": "$85+" },
         { "name": "Toner / Gloss", "price": "$55+" }
       ]
@@ -88,7 +88,7 @@
     },
     {
       "name": "Sophie K.",
-      "text": "Beautiful salon, beautiful colour, and genuinely lovely people. Highly recommend Akada.",
+      "text": "Beautiful salon, beautiful color, and genuinely lovely people. Highly recommend Akada.",
       "rating": 5
     }
   ],
