@@ -154,6 +154,7 @@ Add `data/sample-hvac.json` with `"type": "hvac"`, fill every field, run it, and
    - WhatsApp: `https://wa.me/17875074267`
 5. **Images**:
    - Owner photo → `public/images/<slug>/owner.jpg`, cropped square (it shows in a circle).
+   - Person isn't the owner (e.g. a manager) → add `"stylistsSection": { "eyebrow": "Meet Our Manager", "title": "..." }` to override the default "Meet The Owner" / "Your Stylist" labels. See `data/akada-salon.json`.
    - No photo → copy a placeholder SVG (e.g. `public/images/underground/stylist-owner.svg`) and change its two colors.
    - Gallery/hero → use the shared photos unless the client sends good, sharp ones.
    - Client's own work photos (e.g. braids, where the shared hair photos don't fit) → save them in `public/images/<slug>/` with a `.webp` copy each, point `gallery` at them, set `hero.heroImage` to one of them and **leave out `hero.heroVideo`** so the hero shows the still image instead of the shared video. See `data/braided-by-nai.json`.

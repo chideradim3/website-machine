@@ -1,0 +1,105 @@
+{
+  "type": "hairsalon",
+  "name": "Akada Salon",
+  "tagline": "Since 1997.",
+  "description": "Akada Salon has been creating modern, beautiful hair since 1997 — precision cuts, lived-in colour and balayage, and polished styling from an experienced team led by salon manager Cara.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/akada-salon",
+  "fonts": {
+    "heading": "Jost",
+    "body": "Inter"
+  },
+  "hero": {
+    "title": "Modern hair. Since 1997.",
+    "subtitle": "Precision cuts, lived-in colour, balayage, and effortless styling from a salon with over 25 years of experience. Book your appointment today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#111111",
+    "accent": "#A68A6D"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Colour" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Women's Cut & Style", "price": "$75+" },
+        { "name": "Men's Cut", "price": "$45+" },
+        { "name": "Blowout", "price": "$55+" },
+        { "name": "Event Styling", "price": "$95+" }
+      ]
+    },
+    {
+      "category": "Colour",
+      "items": [
+        { "name": "Balayage / Bronde", "price": "$210+" },
+        { "name": "Full Highlights", "price": "$180+" },
+        { "name": "All-Over Colour", "price": "$120+" },
+        { "name": "Root Touch-Up", "price": "$85+" },
+        { "name": "Toner / Gloss", "price": "$55+" }
+      ]
+    },
+    {
+      "category": "Treatments",
+      "items": [
+        { "name": "Bond-Repair Treatment", "price": "$45+" },
+        { "name": "Deep Conditioning", "price": "$35+" },
+        { "name": "Keratin Smoothing", "price": "$250+" }
+      ]
+    }
+  ],
+  "stylistsSection": {
+    "eyebrow": "Meet Our Manager",
+    "title": "Welcome to Akada"
+  },
+  "stylists": [
+    {
+      "name": "Cara",
+      "title": "Salon Manager",
+      "photo": "/images/akada-salon/manager-cara.jpg",
+      "bio": "Cara manages Akada Salon and makes sure every guest feels welcome from the moment they walk in. With a team built on more than 25 years of salon experience, she helps every client find the right stylist, service, and look.",
+      "bookingUrl": "https://booking.example.com/akada-salon"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Laura B.",
+      "text": "I've been coming to Akada for years and they never disappoint. My balayage is always perfect.",
+      "rating": 5
+    },
+    {
+      "name": "Michelle T.",
+      "text": "Cara and the team are so welcoming. Booking is easy and every appointment feels effortless.",
+      "rating": 5
+    },
+    {
+      "name": "Daniel R.",
+      "text": "Consistently great cuts. You can tell they've been doing this a long time.",
+      "rating": 5
+    },
+    {
+      "name": "Sophie K.",
+      "text": "Beautiful salon, beautiful colour, and genuinely lovely people. Highly recommend Akada.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@akadasalon.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 8pm" },
+      { "day": "Saturday", "time": "9am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}

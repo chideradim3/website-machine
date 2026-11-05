@@ -114,6 +114,8 @@ export interface HairSalonData {
   gallery: { image: string; label: string }[];
   serviceCategories: ServiceCategory[];
   stylists: Stylist[];
+  // optional: override the stylist section labels (defaults "Meet The Owner" / "Your Stylist")
+  stylistsSection?: { eyebrow?: string; title?: string };
   reviews: Review[];
   contact: HairSalonContact;
 }

@@ -8,10 +8,10 @@ export default function Stylists({ data }: { data: HairSalonData }) {
       <div className="mx-auto max-w-content px-6 lg:px-12">
         <p className="mb-4 flex items-center gap-3 text-xs uppercase tracking-[0.3em] text-[#6b6b6b]">
           <span className="h-px w-8 bg-[var(--color-accent)]" />
-          Meet The Owner
+          {data.stylistsSection?.eyebrow ?? "Meet The Owner"}
         </p>
         <h2 className="mb-14 font-[var(--font-heading)] text-4xl text-[#1A1A1A] sm:text-5xl lg:mb-16">
-          Your Stylist
+          {data.stylistsSection?.title ?? "Your Stylist"}
         </h2>
 
         <div className="flex flex-col items-center text-center">
