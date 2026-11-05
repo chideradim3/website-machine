@@ -1,0 +1,103 @@
+{
+  "type": "hairsalon",
+  "name": "Beauty by Becca Z",
+  "tagline": "Extensions, Color & Soft Glam Waves.",
+  "description": "Beauty by Becca Z is a pretty-in-pink hair studio specialising in seamless hair extensions, dimensional brunette and bronde color, and soft, glam waves — full, beautiful hair that looks completely natural.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/beauty-by-becca-z",
+  "fonts": {
+    "heading": "Libre Caslon Display",
+    "body": "Jost"
+  },
+  "hero": {
+    "title": "Fuller, longer, prettier hair.",
+    "subtitle": "Seamless extensions, dimensional color, and soft glam waves by Becca — book your consultation today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#3A3036",
+    "accent": "#D98BA0"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Extensions",
+      "items": [
+        { "name": "Extension Consultation", "price": "Free" },
+        { "name": "Hand-Tied Weft Extensions", "price": "From $550" },
+        { "name": "Tape-In Extensions", "price": "From $400" },
+        { "name": "K-Tip Extensions", "price": "From $650" },
+        { "name": "Extension Move-Up", "price": "From $150" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Dimensional Brunette", "price": "$150+" },
+        { "name": "Bronde Balayage", "price": "$200+" },
+        { "name": "Babylights", "price": "$180+" },
+        { "name": "Root Touch-Up", "price": "$85+" },
+        { "name": "Gloss / Toner", "price": "$55+" }
+      ]
+    },
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Cut & Style", "price": "$65+" },
+        { "name": "Extension Blend Cut", "price": "$45+" },
+        { "name": "Soft Glam Waves", "price": "$55+" },
+        { "name": "Event Styling", "price": "$90+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Becca",
+      "title": "Owner & Extension Specialist",
+      "photo": "/images/beauty-by-becca-z/owner-becca.jpg",
+      "bio": "Becca loves giving clients the full, long, beautiful hair they've always wanted. She specialises in seamless extensions, soft dimensional color, and glam waves, all in her pretty-in-pink studio.",
+      "bookingUrl": "https://booking.example.com/beauty-by-becca-z/becca"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Kayla H.",
+      "text": "My hand-tied extensions are seamless — nobody can tell! Becca is so talented and so sweet.",
+      "rating": 5
+    },
+    {
+      "name": "Morgan P.",
+      "text": "Perfect bronde balayage and the prettiest waves. Her studio is adorable too!",
+      "rating": 5
+    },
+    {
+      "name": "Taylor S.",
+      "text": "Becca really listens and gives honest advice. My hair has never looked this full and healthy.",
+      "rating": 5
+    },
+    {
+      "name": "Abby R.",
+      "text": "Best extension move-ups ever — quick, comfortable, and they always blend perfectly.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@beautybybeccaz.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 4pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
