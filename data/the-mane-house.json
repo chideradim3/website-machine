@@ -1,0 +1,102 @@
+{
+  "type": "hairsalon",
+  "name": "The Mane House",
+  "tagline": "Beauty Salon.",
+  "description": "The Mane House is a modern beauty salon for precision cuts, dimensional color and balayage, blowouts, extensions, and treatments — a calm, elevated space where every mane gets the care it deserves.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/the-mane-house",
+  "fonts": {
+    "heading": "Cormorant Garamond",
+    "body": "Jost"
+  },
+  "hero": {
+    "title": "Every mane deserves a home.",
+    "subtitle": "Precision cuts, dimensional color, balayage, blowouts, and extensions in a calm, elevated salon — book your visit to The Mane House today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#1A1A1A",
+    "accent": "#7F8F76"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Women's Cut & Style", "price": "$70+" },
+        { "name": "Men's Cut", "price": "$40+" },
+        { "name": "Blowout", "price": "$50+" },
+        { "name": "Event Styling / Updo", "price": "$90+" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Balayage", "price": "$200+" },
+        { "name": "Full Highlights", "price": "$175+" },
+        { "name": "All-Over Color", "price": "$115+" },
+        { "name": "Root Touch-Up", "price": "$80+" },
+        { "name": "Gloss / Toner", "price": "$50+" }
+      ]
+    },
+    {
+      "category": "Extensions & Treatments",
+      "items": [
+        { "name": "Extension Consultation", "price": "Free" },
+        { "name": "Tape-In Extensions", "price": "From $375" },
+        { "name": "Keratin Smoothing", "price": "$240+" },
+        { "name": "Bond-Repair Treatment", "price": "$40+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Lead Stylist",
+      "photo": "/images/the-mane-house/stylist-owner.svg",
+      "bio": "The founder of The Mane House created a calm, elevated salon where every client's hair gets thoughtful, expert care — from precision cuts and dimensional color to extensions and healthy-hair treatments.",
+      "bookingUrl": "https://booking.example.com/the-mane-house/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Rachel G.",
+      "text": "The Mane House is my happy place. Beautiful salon, beautiful color, and such a calm experience.",
+      "rating": 5
+    },
+    {
+      "name": "Olivia N.",
+      "text": "Best balayage I've ever had — soft, blended, and it grew out perfectly.",
+      "rating": 5
+    },
+    {
+      "name": "Chris M.",
+      "text": "Sharp, clean cut and a really welcoming team. Booking again for sure.",
+      "rating": 5
+    },
+    {
+      "name": "Emma D.",
+      "text": "My tape-ins blend flawlessly. They really take their time and care about your hair.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@themanehouse.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 4pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
