@@ -1,0 +1,99 @@
+{
+  "type": "hairsalon",
+  "name": "Johanny Dominican Hairdresser",
+  "tagline": "Specialists in Dominican Hair.",
+  "description": "Johanny is a Dominican hairdresser specialising in wash and blow dry, blowouts and silk presses, keratin and smoothing treatments, color and highlights, cuts, treatments, and extensions — healthy hair, smooth and full of life.",
+  "logo": "",
+  "bookingUrl": "tel:+19546495573",
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Montserrat"
+  },
+  "hero": {
+    "title": "Make your beauty feel unique.",
+    "subtitle": "Dominican blowouts, silk presses, keratin smoothing, color, and extensions for healthy hair that's smooth and full of life. Call 954-649-5573 to book your appointment.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Call to Book"
+  },
+  "colors": {
+    "primary": "#0F1A3A",
+    "accent": "#C8202F"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Highlights" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Haircut & Style" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Dominican Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Blowouts & Styling",
+      "items": [
+        { "name": "Wash & Blow Dry", "price": "$45+" },
+        { "name": "Blower / Silk Press", "price": "$65+" },
+        { "name": "Haircuts & Styles", "price": "$40+" }
+      ]
+    },
+    {
+      "category": "Smoothing & Treatments",
+      "items": [
+        { "name": "Keratin Treatment", "price": "$200+" },
+        { "name": "Hair Smoothing", "price": "$150+" },
+        { "name": "Hair Treatments", "price": "$35+" }
+      ]
+    },
+    {
+      "category": "Color & Extensions",
+      "items": [
+        { "name": "Hair Color", "price": "$90+" },
+        { "name": "Highlights", "price": "$130+" },
+        { "name": "Hair Extensions", "price": "Consultation" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Johanny",
+      "title": "Dominican Hairdresser",
+      "photo": "/images/johanny-dominican-hairdresser/stylist-johanny.svg",
+      "bio": "Johanny is a Dominican hairdresser who specialises in Dominican hair care — silky blowouts, silk presses, keratin smoothing, and rich color. Her focus is healthy hair that's smooth and full of life. Call 954-649-5573 or 954-977-8533 to book, and follow Johanny Dominican Hairdresser on Instagram and Facebook.",
+      "bookingUrl": "tel:+19546495573"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Yesenia R.",
+      "text": "Johanny's Dominican blowout is the best! My hair was so silky, straight, and full of movement.",
+      "rating": 5
+    },
+    {
+      "name": "Carolina M.",
+      "text": "The keratin treatment made my hair so smooth and easy to manage. Highly recommend!",
+      "rating": 5
+    },
+    {
+      "name": "Tanya B.",
+      "text": "She gave me a gorgeous red color and a sleek bob. I've never gotten so many compliments.",
+      "rating": 5
+    },
+    {
+      "name": "Maria L.",
+      "text": "Healthy hair every time. Johanny really cares about her clients. ¡Excelente!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(954) 649-5573",
+    "email": "hello@johannyhair.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "8am – 6pm" },
+      { "day": "Sun–Mon", "time": "Closed" },
+      { "day": "Second line", "time": "(954) 977-8533" }
+    ]
+  }
+}
