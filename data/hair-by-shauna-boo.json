@@ -1,0 +1,102 @@
+{
+  "type": "hairsalon",
+  "name": "Hair by Shauna Boo",
+  "tagline": "Cuts, Color & Glam Blowouts.",
+  "description": "Hair by Shauna Boo is a glam hair studio for cuts, bouncy blowouts and curls, silk presses, and fun color like peekaboo highlights — pretty, polished hair with a little extra sparkle.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/hair-by-shauna-boo",
+  "fonts": {
+    "heading": "Cinzel",
+    "body": "Poppins"
+  },
+  "hero": {
+    "title": "Glam hair, Shauna Boo style.",
+    "subtitle": "Cuts, bouncy blowouts, silk presses, and fun color from peekaboos to all-over shades — book your glam with Shauna today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#0E0B0D",
+    "accent": "#E07BA5"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Cut & Style", "price": "$55+" },
+        { "name": "Bouncy Blowout & Curls", "price": "$50+" },
+        { "name": "Silk Press", "price": "$75+" },
+        { "name": "Trim", "price": "$25+" },
+        { "name": "Special Occasion Style", "price": "$80+" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Peekaboo Highlights", "price": "$90+" },
+        { "name": "All-Over Color", "price": "$100+" },
+        { "name": "Highlights / Balayage", "price": "$150+" },
+        { "name": "Fashion / Vivid Color", "price": "$120+" },
+        { "name": "Root Touch-Up", "price": "$70+" }
+      ]
+    },
+    {
+      "category": "Treatments",
+      "items": [
+        { "name": "Deep Conditioning", "price": "$30+" },
+        { "name": "Bond-Repair Treatment", "price": "$40+" },
+        { "name": "Trim & Treatment Combo", "price": "$50+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Mz Shauna Boo",
+      "title": "Owner & Stylist",
+      "photo": "/images/hair-by-shauna-boo/owner-shauna.jpg",
+      "bio": "Mz Shauna Boo is the stylist behind Hair by Shauna Boo. She loves glam blowouts, bouncy curls, and fun color — from soft peekaboo highlights to bold all-over shades — and makes every client feel pretty, polished, and confident.",
+      "bookingUrl": "https://booking.example.com/hair-by-shauna-boo/shauna"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Alexis R.",
+      "text": "Shauna did my peekaboo highlights and I'm obsessed! The color is so vibrant and my hair still feels soft.",
+      "rating": 5
+    },
+    {
+      "name": "Jasmine C.",
+      "text": "Best blowout ever — so bouncy and full. I felt like a whole new person.",
+      "rating": 5
+    },
+    {
+      "name": "Destiny M.",
+      "text": "Sweet, talented, and always on time. My silk press lasted almost two weeks!",
+      "rating": 5
+    },
+    {
+      "name": "Kayla P.",
+      "text": "Love the vibe and love my cut. Shauna Boo is my go-to from now on.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@hairbyshaunaboo.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "10am – 7pm" },
+      { "day": "Saturday", "time": "9am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}

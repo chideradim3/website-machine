@@ -16,7 +16,7 @@ export default function Stylists({ data }: { data: HairSalonData }) {
 
         <div className="flex flex-col items-center text-center">
           {data.stylists.map((stylist, i) => {
-            const honorifics = ["mr.", "mrs.", "ms.", "mx.", "dr."];
+            const honorifics = ["mr.", "mrs.", "ms.", "mx.", "mz.", "dr.", "mr", "mrs", "ms", "mx", "mz", "dr", "miss"];
             const firstName =
               stylist.name.split(" ").find((part) => !honorifics.includes(part.toLowerCase())) ||
               stylist.name;
