@@ -1,0 +1,110 @@
+{
+  "type": "hairsalon",
+  "name": "Beauty By Samiie",
+  "tagline": "Hair • Nails • Waxing.",
+  "description": "Beauty By Samiie is a home-based beauty salon in Richmond, TX offering hair, color, fades and beard trims, nails, waxing, and bridal styling — quality services in a relaxing beauty space where all are welcome.",
+  "logo": "",
+  "bookingUrl": "https://www.instagram.com/beautybysamiie/",
+  "fonts": {
+    "heading": "Bodoni Moda",
+    "body": "Montserrat"
+  },
+  "hero": {
+    "title": "Look good. Feel good. Always you.",
+    "subtitle": "Hair, color, fades, nails, waxing, and bridal styling at a relaxing home-based salon in Richmond, TX. Now accepting clients — book today!",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#1A1416",
+    "accent": "#D4859F"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Bridal & Special Events" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Hair & Color",
+      "items": [
+        { "name": "Haircuts & Styles", "price": "$45+" },
+        { "name": "Highlights", "price": "$140+" },
+        { "name": "All-Over Color", "price": "$100+" },
+        { "name": "Silk Press", "price": "$75+" },
+        { "name": "Perms", "price": "$90+" }
+      ]
+    },
+    {
+      "category": "Fades & Beard Trims",
+      "items": [
+        { "name": "Fade", "price": "$35+" },
+        { "name": "Fade + Beard Trim", "price": "$45+" },
+        { "name": "Beard Trim", "price": "$15+" }
+      ]
+    },
+    {
+      "category": "Nails & Waxing",
+      "items": [
+        { "name": "Acrylic Full Set", "price": "$50+" },
+        { "name": "Gel X Full Set", "price": "$55+" },
+        { "name": "Pedicure", "price": "$40+" },
+        { "name": "Brow Wax", "price": "$15" },
+        { "name": "Lip Wax", "price": "$10" }
+      ]
+    },
+    {
+      "category": "Bridal & Special Events",
+      "items": [
+        { "name": "Bridal Hair", "price": "Consultation" },
+        { "name": "Special Event Styling", "price": "$85+" },
+        { "name": "Updo", "price": "$75+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Samantha Marie",
+      "title": "Owner & Beauty Professional",
+      "photo": "/images/beauty-by-samiie/owner-samantha.jpg",
+      "bio": "Samantha Marie runs Beauty By Samiie, a relaxing home-based salon in Richmond, TX. From hair, color, and fades to nails, waxing, and bridal styling, she offers quality services with flexible booking — and all are welcome. Self care looks good on you! Follow and book on Instagram or TikTok @beautybysamiie.",
+      "bookingUrl": "https://www.instagram.com/beautybysamiie/"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Ashley M.",
+      "text": "Samiie did my highlights and Gel X nails in one visit — both came out perfect! Such a relaxing space.",
+      "rating": 5
+    },
+    {
+      "name": "Carlos R.",
+      "text": "Clean fade and beard trim every time. Easy booking and great vibes.",
+      "rating": 5
+    },
+    {
+      "name": "Brittany L.",
+      "text": "She did my bridal hair and I felt absolutely beautiful. Thank you, Samiie!",
+      "rating": 5
+    },
+    {
+      "name": "Jessica T.",
+      "text": "My go-to for brows, nails, and silk press. Same great beauty, closer to home!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@beautybysamiie.com",
+    "address": "Home-based salon, Richmond, TX (address shared after booking)",
+    "hours": [
+      { "day": "Tue–Fri", "time": "10am – 7pm" },
+      { "day": "Saturday", "time": "9am – 5pm" },
+      { "day": "Sun–Mon", "time": "By appointment" }
+    ]
+  }
+}
