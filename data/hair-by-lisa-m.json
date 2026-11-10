@@ -1,0 +1,105 @@
+{
+  "type": "hairsalon",
+  "name": "Hair By Lisa M",
+  "tagline": "All Hair Services • Salon & Mobile.",
+  "description": "Hair By Lisa M is Lisa Marie's salon and mobile hair service in Port St. Lucie and surrounding areas — blondes and custom color, keratin and Brazilian blowouts, extensions, cuts, and full hair transformations from a stylist with 20+ years of experience.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/hair-by-lisa-m",
+  "fonts": {
+    "heading": "Abril Fatface",
+    "body": "Montserrat"
+  },
+  "hero": {
+    "title": "Beautiful hair. Confident you.",
+    "subtitle": "Blondes, custom color, keratin, extensions, and luxury blowouts — in the salon or at your door across Port St. Lucie. New clients: root touch-up + haircut for just $100.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Your Appointment"
+  },
+  "colors": {
+    "primary": "#141114",
+    "accent": "#E66A9B"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Luxury Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Custom Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "New Client Special",
+      "items": [
+        { "name": "Root Touch-Up + Haircut", "price": "$100" }
+      ]
+    },
+    {
+      "category": "Blondes & Color",
+      "items": [
+        { "name": "Blondes & Custom Color", "price": "$150+" },
+        { "name": "Root Touch-Up", "price": "$85+" },
+        { "name": "Gray Coverage", "price": "$85+" },
+        { "name": "Hair Transformations", "price": "Consultation" }
+      ]
+    },
+    {
+      "category": "Smoothing & Extensions",
+      "items": [
+        { "name": "Keratin Treatment", "price": "$250+" },
+        { "name": "Brazilian Blowout", "price": "$250+" },
+        { "name": "Hair Extensions", "price": "Consultation" }
+      ]
+    },
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Haircuts for Every Style", "price": "$55+" },
+        { "name": "Luxury Blowout & Styling", "price": "$50+" },
+        { "name": "Mobile Service (Port St. Lucie area)", "price": "Ask for travel fee" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Lisa Marie",
+      "title": "Owner & Hairstylist",
+      "photo": "/images/hair-by-lisa-m/owner-lisa.jpg",
+      "bio": "Hi, I'm Lisa Marie! Originally from Brooklyn, New York, I'm a passionate hairstylist with over 20 years of experience in making women feel beautiful and confident. I'm here to help you look and feel your absolute best — in my salon or with mobile services across Port St. Lucie and surrounding areas.",
+      "bookingUrl": "https://booking.example.com/hair-by-lisa-m/lisa"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Jennifer R.",
+      "text": "Lisa Marie is a blonde genius! My color is bright, soft, and exactly what I wanted. Twenty years of experience really shows.",
+      "rating": 5
+    },
+    {
+      "name": "Danielle C.",
+      "text": "She came to my house for my Brazilian blowout and it was amazing. Smooth, shiny hair for months.",
+      "rating": 5
+    },
+    {
+      "name": "Melissa A.",
+      "text": "The new client special was such a great deal — fresh roots and a gorgeous cut. I'm a client for life!",
+      "rating": 5
+    },
+    {
+      "name": "Stephanie G.",
+      "text": "Lisa made me feel beautiful and confident. Warm, talented, and so professional.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@hairbylisam.com",
+    "address": "Serving Port St. Lucie & surrounding areas (salon & mobile)",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
