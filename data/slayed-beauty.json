@@ -1,0 +1,103 @@
+{
+  "type": "hairsalon",
+  "name": "Slayed Beauty",
+  "tagline": "Hair, Glam & Royal Treatment.",
+  "description": "Slayed Beauty is a glam hair and beauty studio for updos and special-occasion styling, color, extensions, silk presses, lashes, and makeup — every client leaves slayed, crowned, and camera-ready.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/slayed-beauty",
+  "fonts": {
+    "heading": "Bodoni Moda",
+    "body": "Poppins"
+  },
+  "hero": {
+    "title": "Get slayed. Wear the crown.",
+    "subtitle": "Glam updos, color, extensions, silk presses, lashes, and makeup for every occasion — book your slay today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#0D0B10",
+    "accent": "#8A5CC8"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Glam Updo" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Styling & Glam",
+      "items": [
+        { "name": "Glam Updo", "price": "$85+" },
+        { "name": "Special Occasion / Event Styling", "price": "$90+" },
+        { "name": "Bridal Hair", "price": "Consultation" },
+        { "name": "Silk Press", "price": "$75+" },
+        { "name": "Blowout & Curls", "price": "$55+" }
+      ]
+    },
+    {
+      "category": "Color & Extensions",
+      "items": [
+        { "name": "All-Over Color", "price": "$110+" },
+        { "name": "Highlights / Balayage", "price": "$170+" },
+        { "name": "Peekaboo / Vivid Color", "price": "$100+" },
+        { "name": "Sew-In / Install", "price": "$150+" },
+        { "name": "Tape-In Extensions", "price": "From $350" }
+      ]
+    },
+    {
+      "category": "Lashes & Makeup",
+      "items": [
+        { "name": "Full Glam Makeup", "price": "$85+" },
+        { "name": "Soft Glam Makeup", "price": "$65+" },
+        { "name": "Strip Lash Application", "price": "$15" },
+        { "name": "Hair + Makeup Package", "price": "$160+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Owner",
+      "title": "Founder & Beauty Artist",
+      "photo": "/images/slayed-beauty/owner.jpg",
+      "bio": "The founder of Slayed Beauty is all about making every client feel like royalty. From glam updos and special-occasion styling to color, extensions, and full glam makeup, she makes sure you leave slayed and camera-ready.",
+      "bookingUrl": "https://booking.example.com/slayed-beauty/owner"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Bianca R.",
+      "text": "She did my hair and makeup for my birthday and I was SLAYED. Felt like a queen all night!",
+      "rating": 5
+    },
+    {
+      "name": "Gabriela M.",
+      "text": "My updo was gorgeous and held up through hours of dancing. So talented!",
+      "rating": 5
+    },
+    {
+      "name": "Tiara J.",
+      "text": "Best color I've had in a long time. The studio vibes are amazing too.",
+      "rating": 5
+    },
+    {
+      "name": "Vanessa P.",
+      "text": "Bridal hair and makeup were flawless. Thank you for making my day perfect!",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@slayedbeauty.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "10am – 7pm" },
+      { "day": "Saturday", "time": "8am – 5pm" },
+      { "day": "Sun–Mon", "time": "By appointment" }
+    ]
+  }
+}
