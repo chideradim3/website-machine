@@ -1,0 +1,103 @@
+{
+  "type": "hairsalon",
+  "name": "Kim's Hair Kreations",
+  "tagline": "Lived-In Color & Custom Kreations.",
+  "description": "Kim's Hair Kreations is a cozy, boho-inspired hair studio for soft lived-in blondes, dimensional color, flattering layered cuts, and blowouts — every look a custom creation made just for you.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/kims-hair-kreations",
+  "fonts": {
+    "heading": "Young Serif",
+    "body": "DM Sans"
+  },
+  "hero": {
+    "title": "Your hair, Kreated just for you.",
+    "subtitle": "Soft lived-in blondes, dimensional color, layered cuts, and blowouts in a cozy, boho studio — book your appointment with Kim today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#3A2340",
+    "accent": "#C8734A"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Lived-In Blonde / Balayage", "price": "$190+" },
+        { "name": "Full Highlights", "price": "$170+" },
+        { "name": "Partial Highlights", "price": "$130+" },
+        { "name": "All-Over Color", "price": "$100+" },
+        { "name": "Root Touch-Up", "price": "$75+" },
+        { "name": "Toner / Gloss", "price": "$45+" }
+      ]
+    },
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Women's Cut & Style", "price": "$55+" },
+        { "name": "Long Layers / Curtain Bangs", "price": "$60+" },
+        { "name": "Men's Cut", "price": "$30+" },
+        { "name": "Kids' Cut", "price": "$20+" },
+        { "name": "Blowout", "price": "$40+" }
+      ]
+    },
+    {
+      "category": "Treatments",
+      "items": [
+        { "name": "Bond-Repair Treatment", "price": "$35+" },
+        { "name": "Deep Conditioning", "price": "$25+" },
+        { "name": "Scalp Treatment", "price": "$30+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Kim",
+      "title": "Owner & Stylist",
+      "photo": "/images/kims-hair-kreations/owner-kim.jpg",
+      "bio": "Kim is the stylist behind Kim's Hair Kreations, a cozy, boho-inspired studio where every look is a custom creation. She loves soft lived-in blondes, dimensional color, and layered cuts that grow out beautifully.",
+      "bookingUrl": "https://booking.example.com/kims-hair-kreations/kim"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Ashley W.",
+      "text": "Kim gave me the perfect lived-in blonde. Soft, natural, and it grows out beautifully!",
+      "rating": 5
+    },
+    {
+      "name": "Brooke H.",
+      "text": "Her studio is so cozy and relaxing. My layers and curtain bangs came out exactly how I wanted.",
+      "rating": 5
+    },
+    {
+      "name": "Megan S.",
+      "text": "Kim really listens and gives honest advice. My hair has never looked healthier.",
+      "rating": 5
+    },
+    {
+      "name": "Jordan T.",
+      "text": "Such a sweet, talented stylist. Every visit feels like hanging out with a friend.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@kimshairkreations.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 6pm" },
+      { "day": "Saturday", "time": "9am – 3pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
