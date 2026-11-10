@@ -1,0 +1,102 @@
+{
+  "type": "hairsalon",
+  "name": "Inspiration by Tara Salon",
+  "tagline": "Braids, Color & Royal Treatment.",
+  "description": "Inspiration by Tara Salon is a glam, royal-purple salon offering box braids, knotless braids, color, silk presses, and styling — beautiful hair and the royal treatment for every client who sits in Tara's chair.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/inspiration-by-tara-salon",
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Poppins"
+  },
+  "hero": {
+    "title": "Be inspired. Feel like royalty.",
+    "subtitle": "Box braids, knotless braids, color, silk presses, and glam styling by Tara — book your appointment and get the royal treatment.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#2B1240",
+    "accent": "#C9A04A"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Braids",
+      "items": [
+        { "name": "Box Braids", "price": "$180+" },
+        { "name": "Knotless Braids", "price": "$200+" },
+        { "name": "Boho / Goddess Braids", "price": "$230+" },
+        { "name": "Ombré / Color Braid Add-On", "price": "$25+" },
+        { "name": "Stitch Braids", "price": "$90+" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "All-Over Color", "price": "$100+" },
+        { "name": "Highlights", "price": "$140+" },
+        { "name": "Fashion / Vivid Color", "price": "$130+" },
+        { "name": "Root Touch-Up", "price": "$75+" }
+      ]
+    },
+    {
+      "category": "Styling & Care",
+      "items": [
+        { "name": "Silk Press", "price": "$80+" },
+        { "name": "Wash & Set", "price": "$55+" },
+        { "name": "Cut & Style", "price": "$55+" },
+        { "name": "Deep Conditioning Treatment", "price": "$35+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Tara",
+      "title": "Owner & Stylist",
+      "photo": "/images/inspiration-by-tara-salon/owner-tara.jpg",
+      "bio": "Tara created Inspiration by Tara Salon to give every client the royal treatment. From box braids and knotless braids to color and silk presses, she's passionate about helping women feel beautiful, confident, and inspired.",
+      "bookingUrl": "https://booking.example.com/inspiration-by-tara-salon/tara"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Monique H.",
+      "text": "Tara's braids are always neat and gorgeous. My pink ombré knotless braids got so many compliments!",
+      "rating": 5
+    },
+    {
+      "name": "Crystal W.",
+      "text": "The salon is beautiful and Tara treats you like royalty. My silk press was flawless.",
+      "rating": 5
+    },
+    {
+      "name": "Angela D.",
+      "text": "Best color I've had in years. Tara really listens and gets it right every time.",
+      "rating": 5
+    },
+    {
+      "name": "Nicole B.",
+      "text": "Such an inspiring, welcoming space. I always leave feeling confident and beautiful.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@inspirationbytara.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "8am – 5pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
