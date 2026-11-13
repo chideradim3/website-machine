@@ -1,0 +1,102 @@
+{
+  "type": "hairsalon",
+  "name": "Jaymilee Hair",
+  "tagline": "Rich Color, Perfect Bangs & Polished Cuts.",
+  "description": "Jaymilee Hair is Katy's hair studio for rich brunette and copper color, flattering cuts with perfect bangs and face-framing layers, and glossy blowouts — healthy, polished hair that suits you.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/jaymilee-hair",
+  "fonts": {
+    "heading": "Spectral",
+    "body": "Jost"
+  },
+  "hero": {
+    "title": "Polished hair, made for you.",
+    "subtitle": "Rich brunette and copper color, cuts with perfect bangs, and glossy blowouts by Katy — book your appointment at Jaymilee Hair today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#2F3338",
+    "accent": "#A85A3C"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Cuts & Bangs",
+      "items": [
+        { "name": "Cut & Style", "price": "$65+" },
+        { "name": "Bangs / Fringe Cut", "price": "$20+" },
+        { "name": "Bang Trim (between visits)", "price": "$10" },
+        { "name": "Long Layers / Face-Framing", "price": "$70+" },
+        { "name": "Glossy Blowout", "price": "$45+" }
+      ]
+    },
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Rich Brunette Color", "price": "$120+" },
+        { "name": "Copper / Auburn Color", "price": "$130+" },
+        { "name": "Dimensional Highlights", "price": "$165+" },
+        { "name": "Root Touch-Up / Gray Coverage", "price": "$80+" },
+        { "name": "Gloss / Toner", "price": "$50+" }
+      ]
+    },
+    {
+      "category": "Treatments",
+      "items": [
+        { "name": "Bond-Repair Treatment", "price": "$40+" },
+        { "name": "Deep Conditioning", "price": "$30+" },
+        { "name": "Keratin Smoothing", "price": "$230+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Katy",
+      "title": "Owner & Stylist",
+      "photo": "/images/jaymilee-hair/owner-katy.jpg",
+      "bio": "Katy is the stylist behind Jaymilee Hair. She loves rich brunettes and warm copper tones, flattering cuts with perfectly placed bangs, and glossy, healthy finishes — polished hair that feels completely you.",
+      "bookingUrl": "https://booking.example.com/jaymilee-hair/katy"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Rebecca T.",
+      "text": "Katy cut the perfect bangs for my face shape — I've never loved my hair more!",
+      "rating": 5
+    },
+    {
+      "name": "Amanda J.",
+      "text": "My copper color is so rich and shiny. She really knows how to make warm tones glow.",
+      "rating": 5
+    },
+    {
+      "name": "Nicole F.",
+      "text": "Gray coverage that actually lasts and looks natural. Katy is so detail-oriented.",
+      "rating": 5
+    },
+    {
+      "name": "Kristen W.",
+      "text": "Warm, professional, and talented. I always leave Jaymilee feeling polished and confident.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@jaymileehair.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 3pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
