@@ -1,0 +1,101 @@
+{
+  "type": "hairsalon",
+  "name": "Avenue Bloom",
+  "tagline": "Lived-In Color & Effortless Hair.",
+  "description": "Avenue Bloom is Mia's hair studio for soft, lived-in blondes, honey balayage, flattering layered cuts, and bouncy blowouts — effortless, healthy hair that blooms beautifully between visits.",
+  "logo": "",
+  "bookingUrl": "https://booking.example.com/avenue-bloom",
+  "fonts": {
+    "heading": "Lora",
+    "body": "Nunito Sans"
+  },
+  "hero": {
+    "title": "Hair that blooms with you.",
+    "subtitle": "Soft lived-in blondes, honey balayage, layered cuts, and bouncy blowouts by Mia — book your appointment at Avenue Bloom today.",
+    "heroVideo": "/images/shared/hair-video.mp4",
+    "heroImage": "/images/shared/hair-image.jpg",
+    "ctaText": "Book Now"
+  },
+  "colors": {
+    "primary": "#3E2B2F",
+    "accent": "#D0866F"
+  },
+  "gallery": [
+    { "image": "/images/shared/gallery-balayage.jpg", "label": "Balayage" },
+    { "image": "/images/shared/gallery-precision-cut.jpg", "label": "Precision Cut" },
+    { "image": "/images/shared/gallery-blowout.jpg", "label": "Blowout" },
+    { "image": "/images/shared/gallery-root-touchup.jpg", "label": "Root Touch-Up" },
+    { "image": "/images/shared/gallery-special-occasion.jpg", "label": "Special Occasion" },
+    { "image": "/images/shared/gallery-full-color.jpg", "label": "Full Color" }
+  ],
+  "serviceCategories": [
+    {
+      "category": "Color",
+      "items": [
+        { "name": "Honey / Lived-In Balayage", "price": "$195+" },
+        { "name": "Full Highlights", "price": "$170+" },
+        { "name": "Partial Highlights", "price": "$130+" },
+        { "name": "Root Touch-Up", "price": "$80+" },
+        { "name": "Gloss / Toner", "price": "$50+" }
+      ]
+    },
+    {
+      "category": "Cuts & Styling",
+      "items": [
+        { "name": "Cut & Style", "price": "$60+" },
+        { "name": "Long Layers / Face-Framing", "price": "$65+" },
+        { "name": "Bouncy Blowout", "price": "$45+" },
+        { "name": "Event Styling", "price": "$80+" }
+      ]
+    },
+    {
+      "category": "Treatments",
+      "items": [
+        { "name": "Bond-Repair Treatment", "price": "$40+" },
+        { "name": "Deep Conditioning Mask", "price": "$30+" },
+        { "name": "Gloss & Shine Treatment", "price": "$35+" }
+      ]
+    }
+  ],
+  "stylists": [
+    {
+      "name": "Mia",
+      "title": "Owner & Stylist",
+      "photo": "/images/avenue-bloom/owner-mia.jpg",
+      "bio": "Mia is the stylist behind Avenue Bloom. She loves soft, lived-in blondes, warm honey tones, and layered cuts that grow out beautifully — effortless hair that keeps blooming between appointments.",
+      "bookingUrl": "https://booking.example.com/avenue-bloom/mia"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Hailey B.",
+      "text": "Mia gave me the most perfect honey balayage. Soft, warm, and so natural — I'm in love!",
+      "rating": 5
+    },
+    {
+      "name": "Sophie L.",
+      "text": "My layers are perfect and my blowout lasted for days. Mia is so sweet and talented.",
+      "rating": 5
+    },
+    {
+      "name": "Emma R.",
+      "text": "She really listens and my color grows out beautifully. Best stylist I've found.",
+      "rating": 5
+    },
+    {
+      "name": "Lauren K.",
+      "text": "Such a relaxing appointment and gorgeous results every single time.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "phone": "(555) 010-1000",
+    "email": "hello@avenuebloom.com",
+    "address": "100 Main St, Your City, ST 00000",
+    "hours": [
+      { "day": "Tue–Fri", "time": "9am – 7pm" },
+      { "day": "Saturday", "time": "9am – 3pm" },
+      { "day": "Sun–Mon", "time": "Closed" }
+    ]
+  }
+}
